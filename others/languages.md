@@ -2,8 +2,10 @@
 layout: page
 title: Languages
 page-type: map-description
-map-group: other
+map-group: others
 image: other-languages.jpg
+image-folder: others
+image-caption: 
 filename: languages
 ---
 

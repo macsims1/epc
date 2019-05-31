@@ -2,13 +2,12 @@
 layout: page
 title: Emergency telecommunications and communicating with disaster affected communities
 page-type: map-description
-map-group: cluster
+map-group: clusters
 image: cluster-emergency-telecommunications-gsm.jpg
 image-folder: clusters
 image-caption: Sierra Leone - Ebola outbreak - GSM mobile network coverage (October 2014) and population density (projected 2014 figures)
 filename: emergency-telecommunications-and-communicating-with-disaster-affected-communities
 ---
-
 These are products to support sectoral responses for the emergency telecommunications cluster and communicating with disaster-affected people. Products focus on the availability and provision of emergency telecommunications as a tool for: \(a\) operational humanitarian response, and \(b\) communicating with disaster-affected communities. In the latter case they may include broadcast media such as community radio. They can be used to facilitate or maintain the telecommunications \(radio and cellular phones\) network infrastructure or to broadcast \(usually through community radio\) across the operational area. Inclusion data on the population and languages spoken by beneficiary communities is important to include where possible.
 
 ## Strategic or operational?

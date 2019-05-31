@@ -2,8 +2,10 @@
 layout: page
 title: Population displacement
 page-type: map-description
-map-group: other
+map-group: others
 image: other-population-movement.jpg
+image-folder: others
+image-caption: 
 filename: population-displacement
 ---
 Maps produced in response to extensive population displacements that may be internal, cross-border \(refugees\) or both. Such displacements may be driven by a natural or technological disaster, or by a complex emergency. Data to be mapped is most often generated through coordinated displacement tracking and field assessment activities, although may sometimes be derived from predictive and remote sensed methods.

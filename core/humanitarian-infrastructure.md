@@ -4,9 +4,10 @@ title: Humanitarian infrastructure
 page-type: map-description
 map-group: core
 image: core-humanitarian-infrastructure-nepal.jpg
+image-folder: core
+image-caption: 
 filename: humanitarian-infrastructure
 ---
-
 These products show established and planned humanitarian coordination and logistics locations, and sometimes their designated areas of responsibility. Coordination centres and hubs depicted may include those established by national authorities, UN agencies, humanitarian clusters or other coordination bodies such as NGOs.
 
 ## Strategic or operational?

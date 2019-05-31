@@ -2,16 +2,27 @@
 layout: page
 title: Other maps
 page-type: overview
-map-group: other
+map-group: others
 ---
-<ul>
-	{% for maps in site.pages %}
-		{% if maps.map-group =="other" and maps.page-type =="map-description" %}
-			
-				<h2><a href="{{site.baseline}}/others/{{maps.filename}}">{{maps.title}}</a></h2>
-				<img src="{{site.baseurl}}/images/others/{{maps.image}}" alt="{{maps.title}}">
-			
-			
-		{% endif %}
-	{% endfor %}
-</ul>
+
+		
+<div class="container">
+		<div class="row">
+				{% for maps in site.pages %}
+				{% if maps.map-group =="others" and maps.page-type =="map-description" %}
+<div class="col-md-4">
+<div class="card border-0 shadow">
+	<a href="{{site.baseurl}}\{{page.map-group}}\{{maps.filename}}" class="stretched-link">
+		<img src="{{site.baseurl}}/images/others/{{maps.image}}" class="card-img-top" alt="...">
+			<div class="card-body-topic text-center">
+			<strong class="card-title mb-0">{{maps.title}}</strong>
+	</a>
+</div>	
+</div>
+</div>
+
+{% endif %}		
+
+{% endfor %}
+</div>
+</div>

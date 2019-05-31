@@ -2,8 +2,10 @@
 layout: page
 title: Cash based tranfers
 page-type: map-description
-map-group: other
+map-group: others
 image: other-who-what-where-cash-transfer.jpg
+image-folder: others
+image-caption: 
 filename: cash-based-transfers
 ---
 

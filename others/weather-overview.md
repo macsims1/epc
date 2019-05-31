@@ -2,8 +2,10 @@
 layout: page
 title: Weather - overview
 page-type: map-description
-map-group: other
+map-group: others
 image: other-weather-rainfall.jpg
+image-folder: others
+image-caption: 
 filename: weather-overview
 ---
 

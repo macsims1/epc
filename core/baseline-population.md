@@ -4,9 +4,10 @@ title: Baseline population
 page-type: map-description
 map-group: core
 image: core-baseline-population.jpg
+image-folder: core
+image-caption: 
 filename: baseline-population
 ---
-
 Shows the population for the area of interest before the emergency. It may show absolute population numbers per district, or population densities.
 
 ## Strategic or operational?

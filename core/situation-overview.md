@@ -4,6 +4,8 @@ title: Situation overview
 page-type: map-description
 map-group: core
 image: core-situation-overview.jpg
+image-folder: core
+image-caption: 
 filename: situation-overview
 ---
 

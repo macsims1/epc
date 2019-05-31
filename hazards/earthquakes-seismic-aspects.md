@@ -2,8 +2,10 @@
 layout: page
 title: Earthquakes - seismic aspects
 page-type: map-description
-map-group: hazard
+map-group: hazards
 image: hazard-earthquake-shake-intensity-ecudaor.jpg
+image-folder: hazards
+image-caption: 
 filename: earthquakes-seismic-aspects
 ---
 

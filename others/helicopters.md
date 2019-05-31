@@ -2,8 +2,10 @@
 layout: page
 title: Helicopters
 page-type: map-description
-map-group: other
+map-group: others
 image: other-helicopters-nepal2.jpg
+image-folder: others
+image-caption: 
 filename: helicopters
 ---
 

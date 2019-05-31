@@ -2,15 +2,13 @@
 layout: page
 title: Emergency shelter
 page-type: map-description
-map-group: cluster
+map-group: clusters
 image: cluster-shelter.jpg
 image-folder: clusters
 image-caption: Libya - Transit camps and major crossing points (08 Mar 2011)
 filename: emergency-shelter
 ---
-
 These are products focus on sectoral humanitarian needs and operations in respect of emergency shelter. They may visualise housing data as a proxy indicator of shelter needs, and data from displacement tracking work, as well as data from specific shelter needs assessments. Later in the response, they may be used as a basis for transitional shelter and reconstruction planning.
-
 ## Strategic or operational?
 
 Both.

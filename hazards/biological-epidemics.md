@@ -2,8 +2,10 @@
 layout: page
 title: Biological - epidemics
 page-type: map-description
-map-group: hazard
+map-group: hazards
 image: hazard-epidemics.jpg
+image-folder: hazards
+image-caption: 
 filename: biological-epidemics
 ---
 

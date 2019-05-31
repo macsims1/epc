@@ -2,13 +2,12 @@
 layout: page
 title: Education
 page-type: map-description
-map-group: cluster
+map-group: clusters
 image: cluster-education.jpg
 image-folder: clusters
 image-caption: Philippines - TS Washi (Sendong) - MIRA (Multi-Cluster Initial Rapid Assessment) data for Education cluser
 filename: education
 ---
-
 Education is one of the key resources to get back in place following a disaster. It is particularly important for children of school age as it provides a safe and protective environment that helps them get to back to some form of normality. Educational facilities may also be used as evacuation centres or meeting facilities, as building standards tend to be higher at these communal buildings.
 
 ## Strategic or operational?

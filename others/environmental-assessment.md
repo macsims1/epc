@@ -2,8 +2,10 @@
 layout: page
 title: Environmental assessment
 page-type: map-description
-map-group: other
+map-group: others
 image: other-feat.jpg
+image-folder: others
+image-caption: 
 filename: environmental-assessment
 ---
 
@@ -32,7 +34,6 @@ The identification of a potential threat from environmental pollutants may in ce
 ## Methods
 
 * Assessment outputs to be mapped will typically include potential or actual sources of pollution, and sensitive ‘receptors’ such as communities, water sources or agricultural assets.
-
 * Be cautious about inferring any predictive models of pollutant transport and dispersal; however it may certainly be relevant and useful to include generalised annotations such as river flow and prevailing wind directions.
 
 ## Data
