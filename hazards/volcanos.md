@@ -2,8 +2,10 @@
 layout: page
 title: Volcanos
 page-type: map-description
-map-group: hazard
+map-group: hazards
 image: hazard-volcano.jpg
+image-folder: hazards
+image-caption: 
 filename: volcanos
 ---
 

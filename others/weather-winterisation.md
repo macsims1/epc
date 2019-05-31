@@ -2,8 +2,10 @@
 layout: page
 title: Weather - winterisation
 page-type: map-description
-map-group: other
+map-group: others
 image: other-winterisation-maximum.jpg
+image-folder: others
+image-caption: 
 filename: weather-winterisation
 ---
 

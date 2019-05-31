@@ -4,6 +4,8 @@ title: Reference - topography and physical geography
 page-type: map-description
 map-group: core
 image: core-reference-map-topographic.jpg
+image-folder: core
+image-caption: 
 filename: reference-topography-and-physical-geography
 ---
 

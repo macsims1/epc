@@ -2,8 +2,10 @@
 layout: page
 title: Floods
 page-type: map-description
-map-group: hazard
+map-group: hazards
 image: hazard-floods.jpg
+image-folder: hazards
+image-caption: 
 filename: floods
 ---
 

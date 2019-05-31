@@ -1,8 +1,3 @@
----
-layout: page
-title: Introduction to health maps
-group: introduction
----
 
 There are a number of different disasters / emergencies in which the health of a population may be affected, including:
 

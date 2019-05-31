@@ -2,8 +2,10 @@
 layout: page
 title: Cyclones and storms
 page-type: map-description
-map-group: hazard
+map-group: hazards
 image: hazard-cyclones-storm-path.jpg
+image-folder: hazards
+image-caption: 
 filename: cyclones-and-storms
 ---
 

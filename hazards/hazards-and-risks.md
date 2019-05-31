@@ -2,7 +2,7 @@
 layout: page
 title: Introduction to hazards and risk maps
 page-type: overview
-map-group: hazard
+map-group: hazards
 image: core-infrastructure-schools.jpg
 filename: infrastructure
 ---

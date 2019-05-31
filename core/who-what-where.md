@@ -4,12 +4,10 @@ title: Who-what-where
 page-type: map-description
 map-group: core
 image: core-who-what-where-humanitarian-presence.jpg
+image-folder: core
+image-caption: 
 filename: who-what-where
 ---
-
-
-![](../.gitbook/assets/ma049sulawesi3www20181011-300dpi.jpeg)
-
 These show who \(which agencies\) are doing what \(in terms of relief operations\) and where they are operating, and are also known as 3W. As a response continues this can evolve into a 4W: who, what, where and when \(time\).
 
 ## Strategic or operational?

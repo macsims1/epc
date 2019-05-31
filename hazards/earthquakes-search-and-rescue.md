@@ -2,8 +2,10 @@
 layout: page
 title: Earthquakes - search and rescue
 page-type: map-description
-map-group: hazard
+map-group: hazards
 image: hazard-earthquake-sectors.jpg
+image-folder: hazards
+image-caption: 
 filename: earthquakes-search-and-rescue
 ---
 
