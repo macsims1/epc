@@ -2,13 +2,12 @@
 layout: page
 title: Food security and nutrition
 page-type: map-description
-map-group: cluster
+map-group: clusters
 image: cluster-food-security.jpg
 image-folder: clusters
 image-caption: Sudan - estimated food insecurity Oct-Dec 20103
 filename: food-security-and-nutrition
 ---
-
 Products that focus on sectoral humanitarian needs and operations in respect of food security and nutrition. These help visualise needs and plan and coordinate sectoral responses, and may include data on livelihoods and public health baselines. They may utilise data from technical assessments on nutrition status, e.g. as compiled by the World Food Program’s vulnerability and mapping units. They often incorporate data on emergency feeding and nutrition programme coverage.
 
 ## Strategic or operational?

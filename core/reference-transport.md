@@ -4,6 +4,8 @@ title: Reference - transport
 page-type: map-description
 map-group: core
 image: core-reference-map-transport.jpg
+image-folder: core
+image-caption: 
 filename: reference-transport
 ---
 

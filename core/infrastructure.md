@@ -4,9 +4,10 @@ title: Infrastructure
 page-type: map-description
 map-group: core
 image: core-infrastructure-schools.jpg
+image-folder: core
+image-caption: 
 filename: infrastructure
 ---
-
 These products show basic structures and organisational facilities within a country or affected area. Transport networks are key to represent, but also other facilities such as education, hospitals, fire stations, police, power structures, banks, etc. Many infrastructure products will become basemap or baseline products that can be used for assessments on which situational data will be overlayed.
 
 ## Strategic or operational?

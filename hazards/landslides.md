@@ -2,8 +2,10 @@
 layout: page
 title: Landslides
 page-type: map-description
-map-group: hazard
+map-group: hazards
 image: hazard-landslides.jpg
+image-folder: hazards
+image-caption: 
 filename: landslides
 ---
 

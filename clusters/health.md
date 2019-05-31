@@ -2,14 +2,12 @@
 layout: page
 title: Health
 page-type: map-description
-map-group: cluster
+map-group: clusters
 image: cluster-health-lassa.jpg
 image-folder: clusters
 image-caption: Nigeria - Lassa fever - Total number of deaths, suspected & confirmed cases (as of 14 Jan 2016)
 filename: health
 ---
-
-
 There are many different health-related products that can be generated during an emergency response, from initial casualty numbers following a cyclone, to doctor and nurse caseloads during an epidemic, to type or status of medical infrastructure. Invariably health information is linked to many of the other vulnerabilities and clusters, and informs a wide variety of decisions made by those responding to an emergency.
 
 ## Strategic or operational?

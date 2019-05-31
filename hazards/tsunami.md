@@ -2,8 +2,10 @@
 layout: page
 title: Tsunami
 page-type: map-description
-map-group: hazard
+map-group: hazards
 image: hazard-tsunami.jpg
+image-folder: hazards
+image-caption: 
 filename: tsunami
 ---
 

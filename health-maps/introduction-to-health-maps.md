@@ -1,4 +1,3 @@
-# Introduction to health maps
 
 There are a number of different disasters / emergencies in which the health of a population may be affected, including:
 
@@ -19,4 +18,3 @@ In the first instance the primary focus of a response may be on the immediate ri
 {% page-ref page="health-systems/" %}
 
 {% page-ref page="clusters-emergency-medical-teams/" %}
-

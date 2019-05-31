@@ -2,8 +2,10 @@
 layout: page
 title: Munitions and explosive remnants of war
 page-type: map-description
-map-group: hazard
+map-group: hazards
 image: hazard-munitions-distribution-and-concentrations.jpg
+image-folder: hazards
+image-caption: 
 filename: munitions-and-explosive-remnants-of-war
 ---
 

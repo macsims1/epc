@@ -2,8 +2,10 @@
 layout: page
 title: Armed conflict and other situations of violence
 page-type: map-description
-map-group: hazard
+map-group: hazards
 image: hazard-complex-syria.jpg
+image-folder: hazards
+image-caption: 
 filename: armed-conflict-and-other-situations-of-violence
 ---
 
@@ -33,7 +35,6 @@ As with natural disasters, maps are important for multiple aspects of humanitari
 
 * All data processing and mapping in complex emergencies must give full regard to potential protection issues through disclosure of the whereabouts of vulnerable populations, and of the risks to aid agencies from any misconstrued motives around humanitarian mapping.
 * The chief driver of humanitarian need in complex emergencies is often displacement. Tracking displaced populations and their needs is therefore often a priority.
-
 * Humanitarian access to affected communities and displaced groups may be limited, and mapping should support the maintenance and use of such access that does exist. This may mean that map circulation needs to be restricted to screened groups of users.
 
 ## Data
