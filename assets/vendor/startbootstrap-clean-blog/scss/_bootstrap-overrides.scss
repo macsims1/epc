@@ -1,0 +1,27 @@
+// Bootstrap overrides for this template
+.btn {
+  font-size: 14px;
+  font-weight: 800;
+  padding: 10px 20px;
+  letter-spacing: 1px;
+  text-transform: normal;
+  border-radius: 5;
+  @include sans-serif-font;
+}
+
+.btn-primary {
+  background-color: $primary;
+  border-color: $primary;
+  &:hover,
+  &:focus,
+  &:active {
+    color: $white;
+    background-color: $mapaction-dark-teal !important;
+    border-color: $mapaction-dark-teal !important;
+  }
+}
+
+.btn-lg {
+  font-size: 16px;
+  padding: 25px 35px;
+}

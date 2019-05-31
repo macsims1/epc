@@ -1,0 +1,84 @@
+---
+layout: default
+---
+
+<!-- Page Header -->
+{% if page.background %}
+<header class="masthead"
+    style="background-image: url('{{ page.background | prepend: site.baseurl | replace: '//', '/' }}')">
+    {% else %}
+    <header class="masthead">
+        {% endif %}
+        <div class="overlay"></div>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-md-10 mx-auto">
+                    <div class="page-heading">
+                        <h1>{{ site.title }}</h1>
+                        {% if site.description %}
+                        <span class="subheading">{{ site.description }}</span>
+                        {% endif %}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4">
+                    <a href="core\">
+                        <img class="img-responsive-grid" src="images\core\core-reference-map-topographic.jpg"
+                            alt="topographic"> </a>
+                    <h3 class="text-center">
+                        <a href="core\">Core maps</a>
+                    </h3>
+
+                </div>
+                <div class="col-md-4">
+                    <a href="clusters\">
+                        <img class="img-responsive-grid" src="\images\clusters\cluster-emergency-telecommunications-gsm.jpg"
+                            alt="telecommunications"></a>
+                    <h3 class="text-center">
+                        <a href="clusters\">Cluster maps</a>
+                    </h3>
+
+                </div>
+                <div class="col-md-4">
+                    <a href="hazards\">
+                        <img class="img-responsive-grid" src="images\hazards\hazard-volcano.jpg" alt="">
+                    </a>
+                    <h3 class="text-center">
+                        <a href="hazards\">Hazard maps</a>
+                    </h3>
+
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-4">
+                    <a href="others\index.html">
+                        <img class="img-responsive-grid" src="images\others\other-population-movement.jpg" alt="">
+                    </a>
+                    <h3 class="text-center">
+                        <a href="others\index.html">Other maps</a>
+                    </h3>
+                </div>
+                <div class="col-md-4">
+                    <a href="gis_im_overview.html">
+                        <img class="img-responsive-grid" src="\images\gis-im\gis-im-map-wall.jpg" alt="im_tools">
+                    </a>
+                    <h3 class="text-center">
+                        <a href="gis_im_overview.html">GIS and information management</a>
+                    </h3>
+                </div>
+                <div class="col-md-4">
+                    <a href="data_sources_overview.html">
+                        <img class="img-responsive-grid" src="\images\gis-im\gis-im-layers-of-data.jpg" alt="">
+                    </a>
+                    <h3 class="text-center">
+                        <a href="data_sources_overview.html">Data sources</a>
+                    </h3>
+                </div>
+            </div>
+        </div>

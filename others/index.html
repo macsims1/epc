@@ -1,0 +1,17 @@
+---
+layout: page
+title: Other maps
+page-type: overview
+map-group: other
+---
+<ul>
+	{% for maps in site.pages %}
+		{% if maps.map-group =="other" and maps.page-type =="map-description" %}
+			
+				<h2><a href="{{site.baseline}}/others/{{maps.filename}}">{{maps.title}}</a></h2>
+				<img src="{{site.baseurl}}/images/others/{{maps.image}}" alt="{{maps.title}}">
+			
+			
+		{% endif %}
+	{% endfor %}
+</ul>

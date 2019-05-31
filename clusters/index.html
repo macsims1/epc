@@ -1,0 +1,17 @@
+---
+layout: page
+title: Cluster maps
+page-type: overview
+map-group: cluster
+---
+<ul>
+	{% for maps in site.pages %}
+		{% if maps.map-group =="cluster" and maps.page-type =="map-description" %}
+			
+				<h2><a href="{{site.baseline}}/clusters/{{maps.filename}}">{{maps.title}}</a></h2>
+				<img src="{{site.baseurl}}/images/clusters/{{maps.image}}" alt="{{maps.title}}">
+			
+			
+		{% endif %}
+	{% endfor %}
+</ul>
