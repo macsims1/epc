@@ -17,7 +17,6 @@ layout: default
           {% if page.description %}
             <span class="subheading">{{ page.description }}</span>
           {% endif %}
-
         </div>
       </div>
     </div>
@@ -26,14 +25,12 @@ layout: default
 
 <div class="container">
   <div class="row">
-    <div class="mx-auto">
-        {{page.map-description}}
 
-      <img src="{{site.baseurl}}/images/{{page.image-folder}}/{{page.image}}" alt="" width="100%">
-      <span class="caption">{{page.image-caption}}</span>
-      
+    <div class=" mx-auto">
+
       {{ content }}
+
     </div>
   </div>
 </div>
-{% include previous-next-section.html %}
+{% include chapter-start.html %}

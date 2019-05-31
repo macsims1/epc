@@ -1,8 +1,10 @@
 ---
-layout: page
+layout: chapter-contents
 title: Core maps
 page-type: overview
 map-group: core
+previous-section: /
+next-section: /clusters/
 ---
 
 		
@@ -11,7 +13,7 @@ map-group: core
 							{% for maps in site.pages %}
 							{% if maps.map-group =="core" and maps.page-type =="map-description" %}
 		<div class="col-md-4">
-			<div class="portfolio-box">
+				<div class="card border-0 shadow">
 				<a href="{{site.baseurl}}\{{page.map-group}}\{{maps.filename}}" class="stretched-link">
 					<img src="{{site.baseurl}}/images/core/{{maps.image}}" class="card-img-top" alt="...">
 						<div class="card-body-topic text-center">
@@ -27,4 +29,3 @@ map-group: core
 		</div>
 		</div>
 
-		.portfolio-box-caption
