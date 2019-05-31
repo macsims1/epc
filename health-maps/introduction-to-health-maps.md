@@ -18,9 +18,5 @@ In the first instance the primary focus of a response may be on the immediate ri
 * Profiles of morbidity / mortality - any endemic and emerging disease \(existing and recently appearing disease\) that can be both communicable and non-communicable disease \(infectious and non-infectious\)
 * Emergency Medical Teams - any surge capacity being provide to the healthcare system
 
-{% page-ref page="morbidity-mortality/" %}
 
-{% page-ref page="health-systems/" %}
-
-{% page-ref page="clusters-emergency-medical-teams/" %}
 
