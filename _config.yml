@@ -17,7 +17,7 @@ title: Example Product Catalogue
 email: info@mapaction.org
 description: >- # this means to ignore newlines until "baseurl:"
   Discover how maps can help you make decisions in humanitarian response
-baseurl: /epc
+baseurl: epc
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mapaction
 facebook_username:  mapaction
