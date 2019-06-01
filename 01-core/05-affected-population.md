@@ -6,8 +6,8 @@ map-group: core
 image: core-population-affected-estimates.jpg
 image-folder: core
 image-caption: 
+folder-name: 01-core
 filename: 05-affected-population
-file-folder: 01-core
 previous-map: 04-baseline-population
 next-map: 06-infrastructure
 ---

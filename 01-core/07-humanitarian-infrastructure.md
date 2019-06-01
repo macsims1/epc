@@ -6,8 +6,8 @@ map-group: core
 image: core-humanitarian-infrastructure-nepal.jpg
 image-folder: core
 image-caption: 
+folder-name: 01-core
 filename: 07-humanitarian-infrastructure
-file-folder: 01-core
 previous-map: 06-infrstructure
 next-map: 08-situation-overview
 ---

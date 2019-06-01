@@ -6,8 +6,8 @@ map-group: core
 image: core-reference-map-transport.jpg
 image-folder: core
 image-caption: 
+folder-name: 01-core
 filename: reference-transport
-file-folder: 01-core
 previous-map: 02-reference-topography-and-physical-geography
 next-map: 04-baseline-population
 ---

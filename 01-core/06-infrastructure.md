@@ -6,8 +6,8 @@ map-group: core
 image: core-infrastructure-schools.jpg
 image-folder: core
 image-caption: 
+folder-name: 01-core
 filename: 06-infrastructure
-file-folder: 01-core
 previous-map: 05-affected-population
 next-map: 07-humanitarian-infrastructure
 ---
