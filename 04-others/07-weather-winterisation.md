@@ -6,6 +6,7 @@ map-group: others
 image: other-winterisation-maximum.jpg
 image-folder: others
 image-caption: 
+folder-name: 04-others
 filename: 07-weather-winterisation
 previous-map: 06-weather-overview
 next-map: 

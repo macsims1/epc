@@ -6,6 +6,7 @@ map-group: clusters
 image: cluster-logistics-assessement-of-logistics-capacity.jpg
 image-folder: clusters
 image-caption: Serbia - Floods - UNDAC assessment of logistics capacity, 26 May 2014
+folder-name: 02-clusters
 filename: 07-logistics
 previous-map: 06-health
 next-map: 08-protection-and-security

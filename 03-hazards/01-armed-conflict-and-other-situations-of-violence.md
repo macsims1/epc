@@ -6,6 +6,7 @@ map-group: hazards
 image: hazard-complex-syria.jpg
 image-folder: hazards
 image-caption: 
+folder-name: 03-hazards
 filename: 01-armed-conflict-and-other-situations-of-violence
 previous-map: 
 next-map: 02-biological-epidemics

@@ -6,6 +6,7 @@ map-group: hazards
 image: hazard-earthquake-shake-intensity-ecudaor.jpg
 image-folder: hazards
 image-caption: 
+folder-name: 03-hazards
 filename: 05-earthquakes-seismic-aspects
 previous-map: 04-earthquakes-search-and-rescue
 next-map: 06-floods

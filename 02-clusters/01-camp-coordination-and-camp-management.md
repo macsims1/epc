@@ -6,6 +6,7 @@ map-group: clusters
 image: cluster-camp-coordination.jpg
 image-folder: clusters
 image-caption: Philippines - TS Washi (Sendong) - Evacuation centre amd transitory site population, Cagayan de Or
+folder-name: 02-clusters
 filename: 01-camp-coordination-and-camp-management
 previous-map: 
 next-map: 02-education

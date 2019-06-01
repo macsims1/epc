@@ -6,6 +6,7 @@ map-group: clusters
 image: cluster-protection.jpg
 image-folder: clusters
 image-caption: Sahel crisis - Nigeria security map (February 1st-22nd 2012)
+folder-name: 02-clusters
 filename: 08-protection-and-security
 previous-map: 07-logistics
 next-map: 09-water-sanitation-and-health

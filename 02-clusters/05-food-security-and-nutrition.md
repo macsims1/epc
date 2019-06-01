@@ -5,7 +5,8 @@ page-type: map-description
 map-group: clusters
 image: cluster-food-security.jpg
 image-folder: clusters
-image-caption: Sudan - estimated food insecurity Oct-Dec 20103
+image-caption: Sudan - estimated food insecurity Oct-Dec 2013
+folder-name: 02-clusters
 filename: 05-food-security-and-nutrition
 previous-map: 04-emergency-telecommunications-and-communicating-with-disaster-affected-communities
 next-map: 06-health

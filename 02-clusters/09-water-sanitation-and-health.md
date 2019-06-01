@@ -6,6 +6,7 @@ map-group: clusters
 image: cluster-wash.jpg
 image-folder: clusters
 image-caption: Cumulative Ebola cases and building density in Free town, Sierra Leone
+folder-name: 02-clusters
 filename: 09-water-sanitation-and-health
 previous-map: 08-protection-and-security
 next-map: 

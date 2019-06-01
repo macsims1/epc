@@ -4,7 +4,8 @@ title: Introduction to hazards and risk maps
 page-type: overview
 map-group: hazards
 image: core-infrastructure-schools.jpg
-filename: infrastructure
+filename: 00-hazards-and-risks
+folder-name: 03-hazards
 ---
 
 These are maps may be produced in response to a particular hazard \(e.g. earthquake, flood, storm, conflict, etc.\). They should be supported by the core maps.

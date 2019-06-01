@@ -6,6 +6,7 @@ map-group: clusters
 image: cluster-shelter.jpg
 image-folder: clusters
 image-caption: Libya - Transit camps and major crossing points (08 Mar 2011)
+folder-name: 02-clusters
 filename: 03-emergency-shelter
 previous-map: 02-education
 next-map: 04-emergency-telecommunications-and-communicating-with-disaster-affected-communities

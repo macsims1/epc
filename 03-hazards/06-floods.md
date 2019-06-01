@@ -6,6 +6,7 @@ map-group: hazards
 image: hazard-floods.jpg
 image-folder: hazards
 image-caption: 
+folder-name: 03-hazards
 filename: 06-floods
 previous-map: 05-earthquakes-seismic-aspects
 next-map: 07-landslides

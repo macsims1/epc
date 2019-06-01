@@ -6,6 +6,7 @@ map-group: others
 image: other-languages.jpg
 image-folder: others
 image-caption: 
+folder-name: 04-others
 filename: 04-languages
 previous-map: 03-helicopters
 next-map: 05-population-displacement

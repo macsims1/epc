@@ -6,6 +6,7 @@ map-group: hazards
 image: hazard-cyclones-storm-path.jpg
 image-folder: hazards
 image-caption: 
+folder-name: 03-hazards
 filename: 03-cyclones-and-storms
 previous-map: 02-biological-epidemics
 next-map: 04-earthquakes-search-and-rescue

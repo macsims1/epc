@@ -6,6 +6,7 @@ map-group: hazards
 image: hazard-volcano.jpg
 image-folder: hazards
 image-caption: 
+folder-name: 03-hazards
 filename: 10-volcanos
 previous-map: 09-tsunami
 next-map: 

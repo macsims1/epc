@@ -6,6 +6,7 @@ map-group: hazards
 image: hazard-tsunami.jpg
 image-folder: hazards
 image-caption: 
+folder-name: 03-hazards
 filename: 09-tsunami
 previous-map: 08-munitions-and-explosive-remnants-of-war
 next-map: 10-volcanos

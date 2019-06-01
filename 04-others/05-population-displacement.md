@@ -6,6 +6,7 @@ map-group: others
 image: other-population-movement.jpg
 image-folder: others
 image-caption: 
+folder-name: 04-others
 filename: 05-population-displacement
 previous-map: 04-languages
 next-map: 06-weather-overview

@@ -6,6 +6,7 @@ map-group: hazards
 image: hazard-landslides.jpg
 image-folder: hazards
 image-caption: 
+folder-name: 03-hazards
 filename: 07-landslides
 previous-map: 06-floods
 next-map: 08-munitions-and-explosive-remnants-of-war

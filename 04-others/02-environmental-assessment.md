@@ -6,6 +6,7 @@ map-group: others
 image: other-feat.jpg
 image-folder: others
 image-caption: 
+folder-name: 04-others
 filename: 02-environmental-assessment
 previous-map: 01-cash-based-transfers
 next-map: 03-helicopters

@@ -6,6 +6,7 @@ map-group: hazards
 image: hazard-earthquake-sectors.jpg
 image-folder: hazards
 image-caption: 
+folder-name: 03-hazards
 filename: 04-earthquakes-search-and-rescue
 previous-map: 03-cyclones-and-storms
 next-map: 05-earthquakes-seismic-aspects

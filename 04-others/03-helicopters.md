@@ -6,6 +6,7 @@ map-group: others
 image: other-helicopters-nepal2.jpg
 image-folder: others
 image-caption: 
+folder-name: 04-others
 filename: 03-helicopters
 previous-map: 02-environmental-assessment
 next-map: 04-languages

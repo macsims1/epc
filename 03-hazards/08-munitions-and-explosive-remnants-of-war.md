@@ -6,6 +6,7 @@ map-group: hazards
 image: hazard-munitions-distribution-and-concentrations.jpg
 image-folder: hazards
 image-caption: 
+folder-name: 03-hazards
 filename: 08-munitions-and-explosive-remnants-of-war
 previous-map: 07-landslides
 next-map: 09-tsunami
