@@ -5,7 +5,7 @@ page-type: map-description
 map-group: core
 image: core-reference-map-pcode.jpg
 image-folder: core
-image-caption: 
+image-caption: 123456789
 filename: 01-reference-administrative-boundaries-and-p-codes
 previous-map: 
 next-map: 02-reference-topography-and-physical-geography
@@ -19,7 +19,7 @@ Early on in a response it may only be possible to obtain level 0 \(International
 Strategic and operational.
 
 ## Basemap, baseline or situational?
-
+      
 Basemap.
 
 ## When might it be produced?
@@ -29,8 +29,6 @@ The depiction of administrative boundaries, with p-coded labels where appropriat
 ## Intended audience
 
 Everyone.
-
-Reference: administrative boundaries and p-codes mapaction.org
 
 ## Influence on humanitarian decisions
 
