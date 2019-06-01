@@ -8,7 +8,7 @@ image-folder: clusters
 image-caption: Philippines - TS Washi (Sendong) - Evacuation centre amd transitory site population, Cagayan de Or
 folder-name: 02-clusters
 filename: 01-camp-coordination-and-camp-management
-previous-map: 
+previous-map: /01-core
 next-map: 02-education
 ---
 These products show sectoral humanitarian needs and operations in respect of IDP camp coordination and management, and associated sectoral activities. They help inform planning and operation of camps for displaced people, both at local/individual level and across the operational area. They may show camp population figures, infrastructure, hazards or resources. Will often use satellite images for basemap.

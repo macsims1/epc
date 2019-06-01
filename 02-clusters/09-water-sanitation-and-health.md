@@ -9,7 +9,7 @@ image-caption: Cumulative Ebola cases and building density in Free town, Sierra 
 folder-name: 02-clusters
 filename: 09-water-sanitation-and-health
 previous-map: 08-protection-and-security
-next-map: 
+next-map: 03-hazards
 ---
 Water, sanitation and hygiene \(WASH\) products are anything that support the provision of water, sanitation and hygiene promotion. Safe water is not only vital to prevent dehydration, but also reduces the outbreaks of waterborne diseases such as cholera that can prove deadly in the event of an emergency, as well as promoting personal hygiene standards. In almost all responses there will be some form of WASH activity, and this can include things such as water supply, excreta disposal, vector control, solid waste management and drainage.
 

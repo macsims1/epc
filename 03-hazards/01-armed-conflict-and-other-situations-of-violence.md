@@ -8,7 +8,7 @@ image-folder: hazards
 image-caption: 
 folder-name: 03-hazards
 filename: 01-armed-conflict-and-other-situations-of-violence
-previous-map: 
+previous-map: /02-clusters
 next-map: 02-biological-epidemics
 ---
 

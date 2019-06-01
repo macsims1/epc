@@ -9,7 +9,7 @@ image-caption:
 folder-name: 01-core
 filename: 09-who-what-where
 previous-map: 08-situation-overview
-next-map: 
+next-map: /02-clusters
 ---
 These show who \(which agencies\) are doing what \(in terms of relief operations\) and where they are operating, and are also known as 3W. As a response continues this can evolve into a 4W: who, what, where and when \(time\).
 

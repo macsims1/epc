@@ -9,7 +9,7 @@ image-caption:
 folder-name: 03-hazards
 filename: 10-volcanos
 previous-map: 09-tsunami
-next-map: 
+next-map: 04-others
 ---
 
 Maps relating to volcanic activity may show pre-existing lava and pyroclastic flows, vents and craters. They may also show other associated hazards such as new lava flows, volcanic gas, lahars, jökulhlaups and pyroclastic flows. Decision-makers will be looking to identify possible evacuation routes from these maps.
