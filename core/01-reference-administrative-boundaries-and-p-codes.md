@@ -5,7 +5,7 @@ page-type: map-description
 map-group: core
 image: core-reference-map-pcode.jpg
 image-folder: core
-image-caption: 123456789
+image-caption: 
 filename: 01-reference-administrative-boundaries-and-p-codes
 previous-map: 
 next-map: 02-reference-topography-and-physical-geography
