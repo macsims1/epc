@@ -7,6 +7,7 @@ image: core-who-what-where-humanitarian-presence.jpg
 image-folder: core
 image-caption: 
 filename: 09-who-what-where
+file-folder: 01-core
 previous-map: 08-situation-overview
 next-map: 
 ---

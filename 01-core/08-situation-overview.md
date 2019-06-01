@@ -7,6 +7,7 @@ image: core-situation-overview.jpg
 image-folder: core
 image-caption: 
 filename: 08-situation-overview
+file-folder: 01-core
 previous-map: 07-humanitarian-infrastructure
 next-map: 09-who-what-where
 ---

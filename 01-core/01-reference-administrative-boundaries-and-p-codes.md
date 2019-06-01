@@ -7,6 +7,7 @@ image: core-reference-map-pcode.jpg
 image-folder: core
 image-caption: 
 filename: 01-reference-administrative-boundaries-and-p-codes
+file-folder: 01-core
 previous-map: 
 next-map: 02-reference-topography-and-physical-geography
 ---

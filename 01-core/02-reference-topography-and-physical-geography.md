@@ -7,6 +7,7 @@ image: core-reference-map-topographic.jpg
 image-folder: core
 image-caption: 
 filename: 02-reference-topography-and-physical-geography
+file-folder: 01-core
 previous-map: 01-reference-administrative-boundaries-and-p-codes
 next-map: 03-reference-transport
 ---

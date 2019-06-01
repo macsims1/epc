@@ -7,6 +7,7 @@ image: core-baseline-population.jpg
 image-folder: core
 image-caption: 
 filename: 04-baseline-population
+file-folder: 01-core
 previous-map: 03-reference-transport
 next-map: 05-affected-population
 ---

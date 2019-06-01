@@ -7,6 +7,7 @@ image: core-reference-map-transport.jpg
 image-folder: core
 image-caption: 
 filename: reference-transport
+file-folder: 01-core
 previous-map: 02-reference-topography-and-physical-geography
 next-map: 04-baseline-population
 ---
