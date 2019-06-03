@@ -1,13 +1,13 @@
 ---
 layout: chapter-start
-title: Reference - administrative boundaries and p-codes old
+title: Reference - administrative boundaries and p-codes
 page-type: map-description
 map-group: core
 image: core-reference-map-pcode.jpg
 image-folder: core
 image-caption: 
 folder-name: 01-core
-filename: 01-reference-administrative-boundaries-and-p-codes-old
+filename: 01-reference-administrative-boundaries-and-p-codes
 previous-map: 
 next-map: 02-reference-topography-and-physical-geography
 ---
