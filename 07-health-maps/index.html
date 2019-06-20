@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Hazard maps
+title: Health maps
 page-type: overview
-map-group: hazard
+map-group: health
 ---
 <ul>
 	{% for maps in site.pages %}
-			{% if maps.map-group =="hazard" and maps.page-type =="map-description" %}
+			{% if maps.map-group =="health" and maps.page-type =="map-introduction" %}
 			
 				<h2><a href="{{site.baseline}}/hazards/{{maps.filename}}">{{maps.title}}</a></h2>
 				<img src="{{site.baseurl}}/images/hazards/{{maps.image}}" alt="{{maps.title}}">
