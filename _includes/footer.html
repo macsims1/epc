@@ -1,21 +1,24 @@
-    <footer id="footer">
-        <div class="container">
-            <div class="row">
-                <div class="col-sm-4">
-						{% include donors.html %}
-                </div>
+<footer id="footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-3">
+                {% include donors.html %}
+            </div>
+            <div class="col-md-1"></div>
+            <div class="col-md-2">
+                <p class="footer-menu"><strong>MapAction</strong><br><a href="https://mapaction.org" class="footer-menu">Main site</a><br><a href="https://mapaction.org/about-us/" class="footer-menu">About us</a><br><a href="https://mapaction.org/contact-us/" class="footer-menu">Contact us</a><br><a href="https://mapaction.org/donate/" class="footer-menu">Donate</a></p>
+            </div>
 
-                <div class="col-sm-4">
-                    <h5>Contributions and ideas</h5>
-                    <p>Could you contribute to this or have ideas on what you would like to see?</p><p>Submit ideas to us via <a href="https://goo.gl/forms/ItRP4BqftLc3w13j2">this form.</a></p>
-                </div>
-                <div class="col-sm-4">
-                    
-					{% include social.html %}                    
-                    <p>Registered charity 1126727; registered company limited by guarantee 6611408 (England and Wales)</p>
-                    <p></p>
-                    <p>Copyright &copy; <a href="http://www.mapaction.org/">MapAction</a>.</p>
-                </div>
+            <div class="col-md-3" >
+                <p class="footer-menu"><strong>Resources</strong> <br><a href="https://guides.mapaction.org"class="footer-menu">Example product catalogue</a><br><a href="https://maps.mapaction.org"class="footer-menu">Maps and data repository</a></p>
+            </div>
+            <div class="col-md-3" >
+                <p></p>
+                {% include social.html %}
             </div>
         </div>
-    </footer>
+        <div class="row">
+                {% include charity-registration.html %}
+        </div>
+    </div>
+</footer>
