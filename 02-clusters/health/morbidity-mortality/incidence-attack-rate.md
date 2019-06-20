@@ -1,6 +1,16 @@
-# Incidence / Attack rate
-
-![](../../.gitbook/assets/health_incidence_attack_rate.jpg)
+---
+layout: page
+title: Incidence / Attack rate
+page-type: map-description
+map-group: health
+image: 
+image-folder: 02-clusters/health
+image-caption: 
+folder-name: 02-clusters
+filename: 02-education
+previous-map: 
+next-map: 
+---
 
 Incidence proportion or attack rate measured as the number of new cases per population over a given period of time, where the population is measured as an average within the given time period or at a midpoint population. Incidence is used to represent the risk / probability of contracting a specific disease. Incidence can also be measured as a secondary attack rate looking at the number of cases transmitted through contact per contact.
 

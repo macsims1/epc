@@ -1,5 +1,16 @@
-# Attendance / hospitalisation rates
-
+---
+layout: page
+title: Attendance / hospitalisation rates
+page-type: map-description
+map-group: health
+image: 
+image-folder: 02-clusters/health
+image-caption: 
+folder-name: 02-clusters
+filename: 02-education
+previous-map: 
+next-map: 
+---
 These maps can be used to show the demand placed on a health system and can be expressed as a number of measures for example: count of attendances or count of admissions / discharges to primary, secondary or tertiary care facilities. In secondary care a common measure used is the hospital discharge rate.
 
 ## Strategic or operational? 

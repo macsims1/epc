@@ -1,4 +1,16 @@
-# Mortality
+---
+layout: page
+title: Mortality
+page-type: map-description
+map-group: health
+image: 
+image-folder: 02-clusters/health
+image-caption: 
+folder-name: 02-clusters
+filename: 02-education
+previous-map: 
+next-map: 
+---
 
 ![](../../.gitbook/assets/health_mortality.jpg)
 
