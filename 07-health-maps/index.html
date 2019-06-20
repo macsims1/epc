@@ -1,14 +1,19 @@
 ---
 layout: page
-title: Health maps
-page-type: overview
+title: Introduction to health maps
+page-type: introduction
 map-group: health
 ---
-<ul>
-	{% for maps in site.pages %}
-			{% if maps.map-group =="health" and maps.page-type =="introduction" %}		
-				<h2><a href="{{site.baseline}}/hazards/{{maps.filename}}">{{maps.title}}</a></h2>
-	
-		{% endif %}
-	{% endfor %}
-</ul>
+There are a number of different disasters / emergencies in which the health of a population may be affected, including:
+
+* War / conflict / violence
+* Natural disasters
+* Disease outbreaks
+* Or a combination of the above
+
+In the first instance the primary focus of a response may be on the immediate risk to life, as the response develops it is important to understand:
+
+* The determinants of health - the population’s vulnerability before the incident
+* The health system - the national healthcare delivery system and any disruption it is facing
+* Profiles of morbidity / mortality - any endemic and emerging disease \(existing and recently appearing disease\) that can be both communicable and non-communicable disease \(infectious and non-infectious\)
+* Emergency Medical Teams - any surge capacity being provide to the healthcare system
