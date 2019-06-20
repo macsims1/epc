@@ -1,4 +1,9 @@
-
+---
+layout: page
+title: Introduction to health maps
+page-type: overview
+map-group: health
+---
 There are a number of different disasters / emergencies in which the health of a population may be affected, including:
 
 * War / conflict / violence
