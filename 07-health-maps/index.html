@@ -8,7 +8,7 @@ map-group: health
 	{% for maps in site.pages %}
 			{% if maps.map-group =="health" and maps.page-type =="introduction" %}		
 				<h2><a href="{{site.baseline}}/hazards/{{maps.filename}}">{{maps.title}}</a></h2>
-				{{ content }}			
+	
 		{% endif %}
 	{% endfor %}
 </ul>
