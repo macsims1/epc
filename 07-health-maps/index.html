@@ -9,7 +9,7 @@ map-group: health
 			{% if maps.map-group =="health" and maps.page-type =="introduction" %}
 			
 				<h2><a href="{{site.baseline}}/hazards/{{maps.filename}}">{{maps.title}}</a></h2>
-				<img src="{{site.baseurl}}/images/hazards/{{maps.image}}" alt="{{maps.title}}">
+				{% content %}
 			
 			
 		{% endif %}
