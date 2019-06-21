@@ -1,16 +1,25 @@
 ---
 layout: chapter-start
-title: Reference - administrative boundaries and p-codes
 page-type: map-description
+
+title: Reference - administrative boundaries and p-codes
+
 map-group: core
+map-category: reference
+map-theme: admin
+map-name: reference-administrative-boundaries-and-p-codes
+
+folder-name: 01-core
+filename: 01-reference-administrative-boundaries-and-p-codes
+
 image: core-reference-map-pcode.jpg
 image-folder: core
 image-caption: 
-folder-name: 01-core
-filename: 01-reference-administrative-boundaries-and-p-codes
+
 previous-map: 
 next-map: 02-reference-topography-and-physical-geography
 ---
+
 The depiction of administrative boundaries, with p-coded \(place code\) labels where appropriate, is invariably highly important for multiple aspects of information management in support of humanitarian decision-making. This is because it encourages and enables situational data to be aggregated using a consistent framework, and so facilitates analysis. It is essential that administrative boundaries, with any associated p-codes, are standardised across institutions and agencies involved in the response.  
 
 Early on in a response it may only be possible to obtain level 0 \(International\) or level 1 \(province, municipality\) information, but the more detailed the boundaries, the more granular the analysis can be, so using level 2 \(district/zone\), level 3 \(territory/city\), or level 4 \(village\) becomes more important as a response evolves.

@@ -1,13 +1,21 @@
 ---
 layout: chapter-start
-title: Cash based tranfers
 page-type: map-description
+
+title: Cash based tranfers
+
 map-group: others
+map-category: 
+map-theme: 
+map-name: other-who-what-where-cash-transfer
+
+folder-name: 04-others
+filename: 01-cash-based-transfers
+
 image: other-who-what-where-cash-transfer.jpg
 image-folder: others
 image-caption: 
-folder-name: 04-others
-filename: 01-cash-based-transfers
+
 previous-map: 
 next-map: 02-environmental-assessment
 ---

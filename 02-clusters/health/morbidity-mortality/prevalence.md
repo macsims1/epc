@@ -1,19 +1,24 @@
 ---
 layout: page
-title: Prevalence
 page-type: map-description
-map-group: health
-image: 
-image-folder: 02-clusters/health
+
+title: Prevalence
+
+map-group: clusters
+map-category: health
+map-theme: morbidity-mortality
+map-name: prevalence
+
+folder-name: 02-clusters\health\morbidity-mortality
+filename: prevalence
+
+image: health-prevalence.jpg
+image-folder: clusters\health
 image-caption: 
-folder-name: 02-clusters
-filename: 02-education
+
 previous-map: 
 next-map: 
 ---
-
-![](../../.gitbook/assets/health_prevalence.jpg)
-
 Disease prevalence maps highlight the proportion of people within a population that have a specific disease \(both existing and emerging cases\), prevalence can be measured at a specific point in time \(point prevalence\) or over a specific time period \(period prevalence\). Prevalence maps indicate how widespread a disease is.
 
 ## Strategic or operational? 

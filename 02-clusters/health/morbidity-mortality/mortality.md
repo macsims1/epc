@@ -1,19 +1,24 @@
 ---
 layout: page
-title: Mortality
 page-type: map-description
-map-group: health
-image: 
-image-folder: 02-clusters/health
+
+title: Mortality
+
+map-group: clusters
+map-category: health
+map-theme: morbidity-mortality
+map-name: incidence-attack-rate
+
+folder-name: 02-clusters\health\morbidity-mortality
+filename: mortality
+
+image: health-mortality.jpg
+image-folder: clusters\health
 image-caption: 
-folder-name: 02-clusters
-filename: 02-education
+
 previous-map: 
 next-map: 
 ---
-
-![](../../.gitbook/assets/health_mortality.jpg)
-
 Mortality / death can be measured in a number of ways including, crude deaths, crude death rate, case fatality and death to case ratios. Mortality maps will be cause / disease specific and can be broken down by particular demographics / risk factors for the disease such as age and sex. Theses maps show the severity and impact of a specific disease or emergency event.
 
 ## Strategic or operational? 

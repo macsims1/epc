@@ -1,13 +1,21 @@
 ---
 layout: page
-title: Education
 page-type: map-description
+
+title: Education
+
 map-group: clusters
+map-category: education
+map-theme: 
+map-name: education
+
+folder-name: 02-clusters
+filename: 02-education
+
 image: cluster-education.jpg
 image-folder: clusters
 image-caption: Philippines - TS Washi (Sendong) - MIRA (Multi-Cluster Initial Rapid Assessment) data for Education cluster
-folder-name: 02-clusters
-filename: 02-education
+
 previous-map: 01-camp-coordination-and-camp-management
 next-map: 03-emergency-shelter
 ---

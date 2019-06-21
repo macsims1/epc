@@ -1,13 +1,21 @@
 ---
 layout: page
-title: Biological - epidemics
 page-type: map-description
+
+title: Biological - epidemics
+
 map-group: hazards
+map-category: biological-epidemics
+map-theme: 
+map-name: biological-epidemics
+
+folder-name: 03-hazards
+filename: 02-biological-epidemics
+
 image: hazard-epidemics.jpg
 image-folder: hazards
 image-caption: 
-folder-name: 03-hazards
-filename: 02-biological-epidemics
+
 previous-map: 01-armed-conflict-and-other-situations-of-violence
 next-map: 03-cyclones-and-storms
 ---

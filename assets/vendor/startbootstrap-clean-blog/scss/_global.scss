@@ -21,10 +21,15 @@ h5,
 h6 {
   font-weight: 400;
   @include sans-serif-font;
+  
 }
 
-h2 {
-  color: $mapaction-teal;
+h2{
+  color: $mapaction-teal
+}
+
+h3{
+  color: $mapaction-blue
 }
 
 a {
@@ -38,7 +43,8 @@ a {
 
 blockquote {
   font-style: italic;
-  color: $gray-600;
+  color: $mapaction-blue;
+  text-indent: 50px
 }
 
 .section-heading {
@@ -56,6 +62,7 @@ blockquote {
   text-align: center;
   border-bottom-right-radius: 5px;
   border-bottom-left-radius: 5px;
+  color: $mapaction-grey
 }
 
 ::-moz-selection {

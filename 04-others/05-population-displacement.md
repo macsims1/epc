@@ -1,13 +1,21 @@
 ---
 layout: page
-title: Population displacement
 page-type: map-description
+
+title: Population displacement
+
 map-group: others
+map-category: population
+map-theme: 
+map-name: population-displacement
+
+folder-name: 04-others
+filename: 05-population-displacement
+
 image: other-population-movement.jpg
 image-folder: others
 image-caption: 
-folder-name: 04-others
-filename: 05-population-displacement
+
 previous-map: 04-languages
 next-map: 06-weather-overview
 ---

@@ -1,13 +1,21 @@
 ---
 layout: chapter-end
-title: Water, sanitation and health
 page-type: map-description
+
+title: Water, sanitation and hygiene
+
 map-group: clusters
+map-category: water-sanitation-and-hygiene
+map-theme: 
+map-name: protection-and-security
+
+folder-name: 02-clusters
+filename: 09-water-sanitation-and-hygiene
+
 image: cluster-wash.jpg
 image-folder: clusters
 image-caption: Cumulative Ebola cases and building density in Free town, Sierra Leone
-folder-name: 02-clusters
-filename: 09-water-sanitation-and-health
+
 previous-map: 08-protection-and-security
 next-map: 03-hazards
 ---

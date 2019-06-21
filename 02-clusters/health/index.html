@@ -1,10 +1,25 @@
 ---
-layout: page
-title: Introduction to health mapping
-page-type: overview
-map-group: health
----
+layout: chapter-contents
+page-type: map-category-overview
 
+title: Introduction to health mapping
+
+map-group: clusters
+map-category: health
+map-theme: 
+map-name: 
+
+folder-name: 02-clusters\health\morbidity-mortality
+filename: index
+
+image: cluster-health-lassa-large.jpg
+image-folder: 02-clusters
+image-caption: 
+
+previous-section: /
+next-section: /
+---
+		
 <div class="container">
         <div class="row">
 				<p>There are a number of different disasters / emergencies in which the health of a population may be affected, including:</p>
@@ -16,29 +31,29 @@ map-group: health
 				</ul>
 				<p>In the first instance the primary focus of a response may be on the immediate risk to life, as the response develops it is important to understand:</p>
 				
-				<ul></ul>
+				<ul>
 				<li>The determinants of health - the population’s vulnerability before the incident</li>
 				<li>The health system - the national healthcare delivery system and any disruption it is facing</li>
 				<li>Profiles of morbidity / mortality - any endemic and emerging disease \(existing and recently appearing disease\) that can be both communicable and non-communicable disease \(infectious and non-infectious\)</li>
 				<li>Emergency Medical Teams - any surge capacity being provide to the healthcare system</li>
 				</ul>
-        </div>
-    <div class="row">
+		</div>
+<div class="row">
             {% for maps in site.pages %}
-            {% if maps.map-group =="health" and maps.page-type =="map-overview" %}
-<div class="col-md-4">
-<div class="card border-0 shadow">
-<a href="{{site.baseurl}}\{{maps.folder-name}}\{{maps.filename}}" class="stretched-link">
-    <img src="{{site.baseurl}}/images/clusters/{{maps.image}}" class="card-img-top" alt="...">
-        <div class="card-body-topic text-center">
-        <strong class="card-title mb-0">{{maps.title}}</strong>
-</a>
-</div>	
-</div>
-</div>
-
-{% endif %}		
-
-{% endfor %}
-</div>
-</div>
+            {% if maps.map-category =="health" and maps.page-type =="map-theme-overview" %}
+			<div class="col-md-4">
+				<div class="card border-0 shadow">
+				<a href="{{site.baseurl}}\{{maps.folder-name}}\{{maps.filename}}" class="stretched-link">
+					<img src="{{site.baseurl}}/images/clusters/health/{{maps.image}}" class="card-img-top" alt="...">
+						<div class="card-body-topic text-center">
+						<strong class="card-title mb-0">{{maps.title}}</strong>
+				</a>
+				</div>	
+				</div>
+				</div>
+				
+				{% endif %}		
+				
+				{% endfor %}
+				</div>
+				</div>

@@ -1,17 +1,24 @@
 ---
 layout: page
-title: Earthquakes - seismic aspects
 page-type: map-description
+
+title: Earthquakes - seismic aspects
+
 map-group: hazards
+map-category: earthquakes
+map-theme: seismic
+map-name: earthquakes-seismic-aspects
+
+folder-name: 03-hazards
+filename: 05-earthquakes-seismic-aspects
+
 image: hazard-earthquake-shake-intensity-ecudaor.jpg
 image-folder: hazards
 image-caption: 
-folder-name: 03-hazards
-filename: 05-earthquakes-seismic-aspects
+
 previous-map: 04-earthquakes-search-and-rescue
 next-map: 06-floods
 ---
-
 Maps produced during a humanitarian response to earthquakes, visualising the seismic data and any data that may forecast the extent of physical damage and potentially act as a proxy for humanitarian impact. It may be combined with other thematic layers, notably with baseline population data to enable a rapid/early analysis of the population potentially affected.
 
 ## Strategic or operational?

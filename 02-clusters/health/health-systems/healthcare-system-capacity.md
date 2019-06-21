@@ -1,6 +1,24 @@
-# Healthcare system capacity
+---
+layout: page
+page-type: map-description
 
-![](../../.gitbook/assets/health_healthcare_system_capacity.jpg)
+title: Healthcare system capacity
+
+map-group: clusters
+map-category: health
+map-theme: health-systems
+map-name: healthcare-system-capacity
+
+folder-name: 02-clusters\health\health-systems
+filename: healthcare-system-capacity
+
+image: health-healthcare-system-capacity.jpg
+image-folder: clusters\health
+image-caption: 
+
+previous-map: 
+next-map: 
+---
 
 Once an understanding of the geographical location and type of healthcare facilities is established the capacity can then be mapped for each type of service provided including:
 

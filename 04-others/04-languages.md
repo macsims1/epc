@@ -1,17 +1,24 @@
 ---
 layout: page
-title: Languages
 page-type: map-description
+
+title: Languages
+
 map-group: others
+map-category: population
+map-theme: 
+map-name: languages
+
+folder-name: 04-others
+filename: 04-languages
+
 image: other-languages.jpg
 image-folder: others
 image-caption: 
-folder-name: 04-others
-filename: 04-languages
+
 previous-map: 03-helicopters
 next-map: 05-population-displacement
 ---
-
 The ability to communicate with populations affected by disasters and emergencies effectively is key to understanding their needs. It is also important for communicating with the affected population about what is being done.
 
 ## Strategic or operational?

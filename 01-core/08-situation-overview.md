@@ -1,17 +1,24 @@
 ---
 layout: page
-title: Situation overview
 page-type: map-description
+
+title: Situation overview
+
 map-group: core
+map-category: response
+map-theme: situation-overview
+map-name: humanitarian-infrastructure
+
+folder-name: 01-core
+filename: 08-situation-overview
+
 image: core-situation-overview.jpg
 image-folder: core
 image-caption: 
-folder-name: 01-core
-filename: 08-situation-overview
+
 previous-map: 07-humanitarian-infrastructure
 next-map: 09-who-what-where
 ---
-
 
 Sometimes known as a common operational picture, these maps aim to provide a snapshot or overview of the emergency at that moment in time. They will typically include a mixture of thematic information, possibly including physical impacts, hazards, numbers of affected people or response actions. In the early stages of an emergency, responders require a visualisation of the disaster zone that enables them to acquire a general spatial understanding of the operating environment. In many cases, newly-arrived actors may have no prior knowledge of the operating geography.
 

@@ -1,13 +1,21 @@
 ---
 layout: chapter-end
-title: Who-what-where
 page-type: map-description
+
+title: Who-what-where
+
 map-group: core
+map-category: response
+map-theme: who-what-where
+map-name: Who-what-where
+
+folder-name: 01-core
+filename: 09-who-what-where
+
 image: core-who-what-where-humanitarian-presence.jpg
 image-folder: core
 image-caption: 
-folder-name: 01-core
-filename: 09-who-what-where
+
 previous-map: 08-situation-overview
 next-map: /02-clusters
 ---

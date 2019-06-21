@@ -1,15 +1,23 @@
 ---
 layout: page
-title: Protection and security
 page-type: map-description
+
+title: Protection and security
+
 map-group: clusters
+map-category: protection-and-security
+map-theme: 
+map-name: protection-and-security
+
+folder-name: 02-clusters
+filename: 08-protection-and-security
+
 image: cluster-protection.jpg
 image-folder: clusters
 image-caption: Sahel crisis - Nigeria security map (February 1st-22nd 2012)
-folder-name: 02-clusters
-filename: 08-protection-and-security
+
 previous-map: 07-logistics
-next-map: 09-water-sanitation-and-health
+next-map: 09-water-sanitation-and-hygiene
 ---
 Protection products are those that focus on vulnerable groups within the affected population, typically focusing on child protection, gender-based violence \(GBV\), mine action or land, housing and property concerns. Security products typically report on incidents that have occurred, and may also show plans such as evacuation routes. Due to the sensitive nature of what this information may show, both protection and security products should be published and shared cautiously. In some cases they may only be shared within an organisation.
 

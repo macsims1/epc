@@ -35,9 +35,12 @@ $mapaction-dark-teal: #009b89  !default;
 
 $primary:       $mapaction-teal !default;
 $secondary:     $gray-600 !default;
-$success:       $green !default;
-$info:          $cyan !default;
-$warning:       $yellow !default;
+$success:       $mapaction-blue !default;
+$info:          $mapaction-teal !default;
+$warning:       $mapaction-red !default;
 $danger:        $red !default;
-$light:         $gray-100 !default;
-$dark:          $gray-800 !default;
+$light:         $mapaction-grey !default;
+$dark:          $mapaction-dark-grey !default;
+
+$tips:          $mapaction-teal !default;
+$software:      $mapaction-grey !default;

@@ -1,17 +1,24 @@
 ---
 layout: page
-title: Reference - topography and physical geography
 page-type: map-description
+
+title: Reference - topography and physical geography
+
 map-group: core
-image: core-reference-map-topographic.jpg
-image-folder: core
-image-caption: 
+map-category: reference
+map-theme: topographic
+map-name: reference-topography-and-physical-geography
+
 folder-name: 01-core
 filename: 02-reference-topography-and-physical-geography
+
+image: core-reference-map-topographic.jpg
+image-folder: core
+image-caption:  
+
 previous-map: 01-reference-administrative-boundaries-and-p-codes
 next-map: 03-reference-transport
 ---
-
 These maps show the physical ‘lie of the land’, and include information such as elevation, rivers and lakes. They allow the user to begin to understand the accessibility of an area. Flat areas near rivers may be prone to flooding or storm surges if near to the coast. On the other hand, these may be identified as potential helicopter landing zones or locations for camps for displaced people. Knowing where the mountainous regions are and their influence on temperature and rainfall will help to inform decisions when planning for winter.
 
 ## Strategic or operational?

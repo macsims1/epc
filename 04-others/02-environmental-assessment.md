@@ -1,17 +1,24 @@
 ---
 layout: page
-title: Environmental assessment
 page-type: map-description
+
+title: Environmental assessment
+
 map-group: others
+map-category: environmental
+map-theme: 
+map-name: other-who-what-where-cash-transfer
+
+folder-name: 04-others
+filename: 02-environmental-assessment
+
 image: other-feat.jpg
 image-folder: others
 image-caption: 
-folder-name: 04-others
-filename: 02-environmental-assessment
+
 previous-map: 01-cash-based-transfers
 next-map: 03-helicopters
 ---
-
 Maps to support the process and outputs of an environmental assessment undertaken in the context of a humanitarian emergency.
 
 ## Strategic or operational?

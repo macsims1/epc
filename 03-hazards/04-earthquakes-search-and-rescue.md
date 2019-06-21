@@ -1,17 +1,24 @@
 ---
 layout: page
-title: Earthquakes - search and rescue
 page-type: map-description
+
+title: Earthquakes - search and rescue
+
 map-group: hazards
+map-category: earthquakes
+map-theme: search and rescue
+map-name: cyclones-and-storms
+
+folder-name: 03-hazards
+filename: 04-earthquakes-search-and-rescue
+
 image: hazard-earthquake-sectors.jpg
 image-folder: hazards
 image-caption: 
-folder-name: 03-hazards
-filename: 04-earthquakes-search-and-rescue
+
 previous-map: 03-cyclones-and-storms
 next-map: 05-earthquakes-seismic-aspects
 ---
-
 Maps produced during a humanitarian response to earthquakes, focusing on the hazards and impacts that typically characterise these emergencies. They should facilitate a timely response to earthquake disasters, focusing on anticipated hazards such as aftershocks, and the impacts of this type of event. Maps may be produced to coordinate urban search and rescue \(USAR\) efforts, to visualise access to affected areas, to analyse patterns of structural damage and assessed needs, or to plan a humanitarian response across multiple sectors.
 
 ## Strategic or operational?

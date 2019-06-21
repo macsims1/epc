@@ -1,13 +1,21 @@
 ---
 layout: page
-title: Humanitarian infrastructure
 page-type: map-description
+
+title: Humanitarian infrastructure
+
 map-group: core
+map-category: infrastructure
+map-theme: humanitarian
+map-name: humanitarian-infrastructure
+
+folder-name: 01-core
+filename: 07-humanitarian-infrastructure
+
 image: core-humanitarian-infrastructure-nepal.jpg
 image-folder: core
 image-caption: 
-folder-name: 01-core
-filename: 07-humanitarian-infrastructure
+
 previous-map: 06-infrstructure
 next-map: 08-situation-overview
 ---

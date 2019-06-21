@@ -1,13 +1,21 @@
 ---
 layout: page
-title: Health
 page-type: map-description
+
+title: Health
+
 map-group: clusters
+map-category: health
+map-theme: 
+map-name: health
+
+folder-name: 02-clusters
+filename: 06-health
+
 image: cluster-health-lassa.jpg
 image-folder: clusters
 image-caption: Nigeria - Lassa fever - Total number of deaths, suspected & confirmed cases (as of 14 Jan 2016)
-folder-name: 02-clusters
-filename: 06-health
+
 previous-map: 05-food-security-and-nutrition
 next-map: 07-logistics
 ---

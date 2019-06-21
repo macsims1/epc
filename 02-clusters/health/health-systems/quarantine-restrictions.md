@@ -1,5 +1,24 @@
-# Quarantine restrictions
+---
+layout: page
+page-type: map-description
 
+title: Quarantine restrictions
+
+map-group: clusters
+map-category: health
+map-theme: health-systems
+map-name: quarantine-restrictions
+
+folder-name: 02-clusters\health\health-systems
+filename: quarantine-restrictions
+
+image: 
+image-folder: clusters\health
+image-caption: 
+
+previous-map: 
+next-map: 
+---
 During certain emergencies / disasters it may be necessary to implement:
 
 * curfews

@@ -1,0 +1,48 @@
+---
+layout: chapter-contents
+page-type: map-theme-overview
+
+title: Clusters / Emergency Medical Teams
+
+map-group: clusters
+map-category: health
+map-theme: clusters-emergency-medical-teams
+map-name: 
+
+folder-name: 02-clusters\health\health-systems
+filename: index
+
+image: health-emt-type-and-location.jpg
+image-folder: 02-clusters/health
+image-caption: 
+
+previous-section: /
+next-section: /
+---
+		
+<div class="container">
+<p> Emergency Medical Teams (EMTs) are teams of quality assured healthcare professionals set up to provide surge capacity in a disaster / emergency.</p>
+
+<p> These teams can be national and / or international but are guided by the common principle of self-sufficiency and the with the aim to strengthen the existing capacity of the health system in country.</p>
+
+<div class="container">
+
+	<div class="row">
+			{% for maps in site.pages %}
+			{% if maps.map-theme =="clusters-emergency-medical-teams" and maps.page-type =="map-description" %}
+<div class="col-md-4">
+<div class="card border-0 shadow">
+<a href="{{site.baseurl}}\{{maps.folder-name}}\{{maps.filename}}" class="stretched-link">
+	<img src="{{site.baseurl}}/images/clusters/health/{{maps.image}}" class="card-img-top" alt="...">
+		<div class="card-body-topic text-center">
+		<strong class="card-title mb-0">{{maps.title}}</strong>
+</a>
+</div>	
+</div>
+</div>
+
+{% endif %}		
+
+{% endfor %}
+</div>
+</div>

@@ -1,29 +1,41 @@
 ---
-layout: page
+layout: chapter-contents
+page-type: map-theme-overview
+
 title: Health systems
-page-type: overview
-map-group: health
+
+map-group: clusters
+map-category: health
+map-theme: morbidity-mortality
+map-name: 
+
+folder-name: 02-clusters\health\health-systems
+filename: index
+
+image: health-healthcare-system-status.jpg
+image-folder: 02-clusters/health
+image-caption: 
+
+previous-section: /
+next-section: /
 ---
-
+		
 <div class="container">
-        <div class="row">
-            <p>A good understanding of the in-country health system is required when responding to any disaster / emergency. The capacity of the system both before and after the disaster / emergency is required.</p>
+    <p>A good understanding of the in-country health system is required when responding to any disaster / emergency. The capacity of the system both before and after the disaster / emergency is required.</p>
 
-            <p>Once the current capacity of the system is established this can be mapped to the demand \(identified through mapping of the determinants of health and morbidity / mortality\) and enable the targeting of any additional resource that is required.</p>
-                    
-            <p>An example of this in disasters / emergencies is when emergency medical teams respond the positioning of these teams is decided based upon their capacity and the needs of the medical facilities in the affected area or country.</p>
-                    </p>
-        </div>
+    <p>Once the current capacity of the system is established this can be mapped to the demand \(identified through mapping of the determinants of health and morbidity / mortality\) and enable the targeting of any additional resource that is required.</p>
+            
+    <p>An example of this in disasters / emergencies is when emergency medical teams respond the positioning of these teams is decided based upon their capacity and the needs of the medical facilities in the affected area or country.</p>
 
-    <div class="row">
-            {% for maps in site.pages %}
-            {% if maps.map-group =="health" and maps.page-type =="map-overview" %}
+<div class="row">
+		{% for maps in site.pages %}
+		{% if maps.map-theme =="health-systems" and maps.page-type =="map-description" %}
 <div class="col-md-4">
 <div class="card border-0 shadow">
 <a href="{{site.baseurl}}\{{maps.folder-name}}\{{maps.filename}}" class="stretched-link">
-    <img src="{{site.baseurl}}/images/clusters/{{maps.image}}" class="card-img-top" alt="...">
-        <div class="card-body-topic text-center">
-        <strong class="card-title mb-0">{{maps.title}}</strong>
+<img src="{{site.baseurl}}/images/clusters/health/{{maps.image}}" class="card-img-top" alt="...">
+	<div class="card-body-topic text-center">
+	<strong class="card-title mb-0">{{maps.title}}</strong>
 </a>
 </div>	
 </div>

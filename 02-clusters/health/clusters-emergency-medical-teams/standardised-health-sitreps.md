@@ -1,4 +1,24 @@
-# Standardised Health Sitreps
+---
+layout: chapter-end
+page-type: map-description
+
+title: Standardised Health Sitreps
+
+map-group: clusters
+map-category: health
+map-theme: clusters-emergency-medical-teams
+map-name: standardised-health-sitreps
+
+folder-name: 02-clusters\health\clusters-emergency-medical-teams
+filename: standardised-health-sitreps
+
+image: 
+image-folder: clusters\health
+image-caption: 
+
+previous-map: 
+next-map: standardised-health-sitreps
+---
 
 EMTs have standardised daily reporting that goes to both the Ministry of Health and the EMT CC. This reporting collates what is currently occurring in the EMTs facilities and can be mapped daily.
 

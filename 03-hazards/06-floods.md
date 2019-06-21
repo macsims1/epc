@@ -1,17 +1,24 @@
 ---
 layout: page
-title: Floods
 page-type: map-description
+
+title: Floods
+
 map-group: hazards
+map-category: floods
+map-theme: 
+map-name: floods
+
+folder-name: 03-hazards
+filename: 06-floods
+
 image: hazard-floods.jpg
 image-folder: hazards
 image-caption: 
-folder-name: 03-hazards
-filename: 06-floods
+
 previous-map: 05-earthquakes-seismic-aspects
 next-map: 07-landslides
 ---
-
 Maps produced during a humanitarian response to floods \(including those caused by tropical storm events\), focusing on the hazards and impacts that typically characterise such emergencies. Floods may affect wide areas, limiting access to communities and triggering large-scale population displacement. Maps in association with satellite imaging can visualise the extent of flooding and analyse the likely impact on communities. They are also used to plan needs assessments and a humanitarian response across multiple sectors.
 
 ## Strategic or operational?

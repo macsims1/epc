@@ -1,13 +1,21 @@
 ---
 layout: page
-title: Incidence / Attack rate
 page-type: map-description
-map-group: health
+
+title: Incidence / Attack rate
+
+map-group: clusters
+map-category: health
+map-theme: morbidity-mortality
+map-name: incidence-attack-rate
+
+folder-name: 02-clusters\health\morbidity-mortality
+filename: incidence-attack-rate
+
 image: 
-image-folder: 02-clusters/health
+image-folder: clusters\health
 image-caption: 
-folder-name: 02-clusters
-filename: 02-education
+
 previous-map: 
 next-map: 
 ---

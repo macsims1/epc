@@ -1,13 +1,21 @@
 ---
 layout: page
-title: Affected population
 page-type: map-description
+
+title: Affected population
+
 map-group: core
+map-category: population
+map-theme: affected-population
+map-name: affected-population
+
+folder-name: 01-core
+filename: 05-affected-population
+
 image: core-population-affected-estimates.jpg
 image-folder: core
 image-caption: 
-folder-name: 01-core
-filename: 05-affected-population
+
 previous-map: 04-baseline-population
 next-map: 06-infrastructure
 ---

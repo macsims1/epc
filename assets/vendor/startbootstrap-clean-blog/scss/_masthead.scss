@@ -3,7 +3,7 @@ header.masthead {
   // TIP: Background images are set within the HTML using inline CSS!
   margin-bottom: 50px;
   background: no-repeat center center;
-  background-image: $gray-600;
+  background-color: $gray-600;
   background-attachment: scroll;
   position: relative;
   @include background-cover;
@@ -29,12 +29,12 @@ header.masthead {
   .site-heading {
     text-align: center;
     h1 {
-      font-size: 30px;
+      font-size: 50px;
       margin-top: 0;
     }
     .subheading {
-      font-size: 20px;
-      font-weight: 300;
+      font-size: 24px;
+      font-weight: 00;
       line-height: 1.1;
       display: block;
       margin: 10px 0 0;
@@ -42,7 +42,7 @@ header.masthead {
     }
     @media only screen and (min-width: 768px) {
       h1 {
-        font-size: 50px;
+        font-size: 80px;
       }
     }
   }
