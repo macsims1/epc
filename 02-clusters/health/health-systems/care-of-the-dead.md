@@ -1,6 +1,24 @@
-# Care of the dead
+---
+layout: chapter-start
+page-type: map-description
 
-![](../../.gitbook/assets/health_care_of_the_dead.jpg)
+title: Care of the dead
+
+map-group: clusters
+map-category: health
+map-theme: health-systems
+map-name: care-of-the-dead
+
+folder-name: 02-clusters\health\health-systems
+filename: care-of-the-dead
+
+image: health-care-of-the-dead.jpg
+image-folder: clusters\health
+image-caption: 
+
+previous-map: 
+next-map: 
+---
 
 Safe and dignified burials are important to family and friends as well as for public health. Maps can be produced to visualise where facilities and practices are available for a safe and dignified burial.
 

@@ -1,13 +1,21 @@
 ---
 layout: chapter-start
-title: Camp coordination and camp management
 page-type: map-description
+
+title: Camp coordination and camp management
+
 map-group: clusters
+map-category: camp-coordination-and-camp-management
+map-theme: 
+map-name: camp-coordination-and-camp-management
+
+folder-name: 02-clusters
+filename: 01-camp-coordination-and-camp-management
+
 image: cluster-camp-coordination.jpg
 image-folder: clusters
 image-caption: Philippines - TS Washi (Sendong) - Evacuation centre amd transitory site population, Cagayan de Or
-folder-name: 02-clusters
-filename: 01-camp-coordination-and-camp-management
+
 previous-map: /01-core
 next-map: 02-education
 ---

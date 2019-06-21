@@ -1,19 +1,24 @@
 ---
 layout: page
+page-type: map-description
+
 title: Vaccination coverage
 
-page-type: map-description
-map-group: health
-image: 
+map-group: cluster
+map-category: health
+map-theme: morbidity-mortality
+map-name: vaccination-coverage
+
+folder-name: 02-clusters\health\morbidity-mortality
+filename: vaccination-coverage
+
+image: health-vaccination-coverage.jpg
 image-folder: 02-clusters/health
 image-caption: 
-folder-name: 02-clusters
-filename: 02-education
+
 previous-map: 
 next-map: 
 ---
-![](../../.gitbook/assets/health_vaccination_coverage.jpg)
-
 The percentage of a population vaccinated at a specific age within a specific population. These maps are used to visualise how widespread vaccination coverage is.
 
 ## **Strategic or operational?** 

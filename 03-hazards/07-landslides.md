@@ -1,17 +1,24 @@
 ---
 layout: page
-title: Landslides
 page-type: map-description
+
+title: Landslides
+
 map-group: hazards
+map-category: floods
+map-theme: 
+map-name: floods
+
+folder-name: 03-hazards
+filename: 07-landslides
+
 image: hazard-landslides.jpg
 image-folder: hazards
 image-caption: 
-folder-name: 03-hazards
-filename: 07-landslides
+
 previous-map: 06-floods
 next-map: 08-munitions-and-explosive-remnants-of-war
 ---
-
 Maps depicting the hazards and impacts of landslides or other mass movements. which could include snow avalanches.
 
 ## Strategic or operational?

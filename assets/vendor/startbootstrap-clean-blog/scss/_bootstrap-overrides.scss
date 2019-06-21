@@ -2,10 +2,10 @@
 .btn {
   font-size: 14px;
   font-weight: 800;
-  padding: 10px 20px;
+  padding: 15px 25px;
   letter-spacing: 1px;
-  text-transform: normal;
-  border-radius: 5;
+  text-transform: uppercase;
+  border-radius: 0;
   @include sans-serif-font;
 }
 
@@ -16,12 +16,104 @@
   &:focus,
   &:active {
     color: $white;
-    background-color: $mapaction-dark-teal !important;
-    border-color: $mapaction-dark-teal !important;
+    background-color: darken($primary, 7.5) !important;
+    border-color: darken($primary, 7.5) !important;
   }
 }
 
 .btn-lg {
   font-size: 16px;
   padding: 25px 35px;
+}
+
+.card {
+  margin-bottom: 30px;
+}
+
+.card-body-topic {
+  -ms-flex: 1 1 auto;
+  flex: 1 1 auto;
+  padding: 1.25rem;
+  height: 125px;
+}
+.blockquote {
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: 3em;
+  margin-right: 3em;
+}
+
+.blockquote-footer {
+  display: block;
+  font-size: 80%;
+  color: $mapaction-dark-grey;
+  padding-bottom: 20px;
+  padding-top: 20px;
+  text-align: right;
+  background-color: white;
+}
+
+.image-left {
+  display: block;
+  margin-right: 50px;
+  margin-left: auto;
+  float: left;
+}
+
+.image-right {
+  display: block;
+  margin-left: 50px;
+  margin-right: auto;
+  float: right;
+}
+.image-centre {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  float: centre;
+}
+
+
+.bg-tip {
+  background-color: $mapaction-teal!important
+}
+
+a.bg-tip:focus,
+a.bg-tip:hover,
+button.bg-tip:focus,
+button.bg-tip:hover {
+  background-color: $mapaction-teal !important
+}
+
+.bg-software {
+  background-color: $mapaction-dark-grey !important
+}
+
+a.bg-software:focus,
+a.bg-software:hover,
+button.bg-software:focus,
+button.bg-software:hover {
+  background-color: $mapaction-dark-grey !important
+}
+
+.bg-exercise {
+  background-color: $mapaction-red !important
+}
+
+a.bg-exercise:focus,
+a.bg-exercise:hover,
+button.bg-exercise:focus,
+button.bg-exercise:hover {
+  background-color: $mapaction-red !important
+}
+
+.bg-case-study {
+  background-color: $mapaction-light-blue!important
+}
+
+a.bg-case-study:focus,
+a.bg-case-study:hover,
+button.bg-case-study:focus,
+button.bg-case-study:hover {
+  background-color: $mapaction-light-blue!important
 }

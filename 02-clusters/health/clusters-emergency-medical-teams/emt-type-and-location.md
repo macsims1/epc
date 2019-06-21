@@ -1,6 +1,24 @@
-# EMT Type and location
+---
+layout: chapter-start
+page-type: map-description
 
-![](../../.gitbook/assets/health_emt_type_and_location.jpg)
+title: EMT Type and location
+
+map-group: clusters
+map-category: health
+map-theme: clusters-emergency-medical-teams
+map-name: emt-type-and-location
+
+folder-name: 02-clusters\health\clusters-emergency-medical-teams
+filename: emt-type-and-location
+
+image: health-emt-type-and-location.jpg
+image-folder: clusters\health
+image-caption: 
+
+previous-map: 
+next-map: standardised-health-sitreps
+---
 
 Emergency Medical Teams are quality assured by the WHO. Teams can be Type 1 - Outpatient Emergency Care, Type 2 - Inpatient Surgical Emergency Care, Type 3 - Inpatient Referral Care and additional specialist care. Both the type and location of these teams should be mapped along with where the Emergency medical Team Coordination Cell \(EMT CC\) is located. 
 

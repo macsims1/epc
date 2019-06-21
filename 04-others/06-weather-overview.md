@@ -1,13 +1,21 @@
 ---
 layout: page
-title: Weather - overview
 page-type: map-description
+
+title: Weather - overview
+
 map-group: others
+map-category: weather
+map-theme: 
+map-name: weather-overview
+
+folder-name: 04-others
+filename: 06-weather-overview
+
 image: other-weather-rainfall.jpg
 image-folder: others
 image-caption: 
-folder-name: 04-others
-filename: 06-weather-overview
+
 previous-map: 05-population-displacement
 next-map: 07-weather-winterisation
 ---

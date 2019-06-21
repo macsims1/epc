@@ -1,13 +1,21 @@
 ---
 layout: page
-title: Emergency telecommunications and communicating with disaster affected communities
 page-type: map-description
+
+title: Emergency telecommunications and communicating with disaster affected communities
+
 map-group: clusters
+map-category: emergency-telecommunications-and-communicating-with-disaster-affected-communities
+map-theme: 
+map-name: emergency-telecommunications-and-communicating-with-disaster-affected-communities
+
+folder-name: 02-clusters
+filename: 04-emergency-telecommunications-and-communicating-with-disaster-affected-communities
+
 image: cluster-emergency-telecommunications-gsm.jpg
 image-folder: clusters
 image-caption: Sierra Leone - Ebola outbreak - GSM mobile network coverage (October 2014) and population density (projected 2014 figures)
-folder-name: 02-clusters
-filename: 04-emergency-telecommunications-and-communicating-with-disaster-affected-communities
+
 previous-map: 03-emergency-shelter
 next-map: 05-food-security-and-nutrition
 ---

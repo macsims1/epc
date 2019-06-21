@@ -1,0 +1,59 @@
+---
+layout: chapter-contents
+page-type: map-theme-overview
+
+title: Morbidity and mortality
+
+map-group: clusters
+map-category: health
+map-theme: morbidity-mortality
+map-name: 
+
+folder-name: 02-clusters\health\morbidity-mortality
+filename: index
+
+image: health-vaccination-coverage.jpg
+image-folder: 02-clusters/health
+image-caption: 
+
+previous-section: /
+next-section: /
+---
+		
+<div class="container">
+    <p>Mapping of morbidity (disease) and mortality (death) can help to identify:</p>
+<ul>
+<li>clusters</li>
+<li>sources and</li>
+<li>potential transmission routes</li>
+</ul>
+
+<p>The patterns of morbidity and mortality that are important to investigate are:</p>
+
+<ul>
+<li>Endemic (existing) and emerging (recently appearing) disease</li>
+<li>both communicable (infectious) and non-communicable disease (non-infectious)</li>
+</ul>
+
+<p>Across all health related responses to aid good decision making it is essential to track health over time, for example in epidemics this will help understand the progression of the incident i.e. are cases increasing or decreasing.</p>
+
+
+<div class="row">
+	{% for maps in site.pages %}
+	{% if maps.map-theme =="health-systems" and maps.page-type =="map-description" %}
+	<div class="col-md-4">
+		<div class="card border-0 shadow">
+		<a href="{{site.baseurl}}\{{maps.folder-name}}\{{maps.filename}}" class="stretched-link">
+			<img src="{{site.baseurl}}/images/clusters/health/{{maps.image}}" class="card-img-top" alt="...">
+				<div class="card-body-topic text-center">
+				<strong class="card-title mb-0">{{maps.title}}</strong>
+		</a>
+		</div>	
+		</div>
+		</div>
+		
+		{% endif %}		
+		
+		{% endfor %}
+		</div>
+		</div>

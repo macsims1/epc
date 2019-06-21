@@ -1,13 +1,21 @@
 ---
 layout: page
-title: Baseline population
 page-type: map-description
+
+title: Baseline population
+
 map-group: core
-image: core-baseline-population.jpg
-image-folder: core
-image-caption: 
+map-category: population
+map-theme: baseline-population
+map-name: baseline-population
+
 filename: 04-baseline-population
 file-folder: 01-core
+
+image: core-baseline-population.jpg
+image-folder: core
+image-caption:  
+
 previous-map: 03-reference-transport
 next-map: 05-affected-population
 ---

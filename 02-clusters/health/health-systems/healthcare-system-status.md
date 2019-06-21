@@ -1,7 +1,24 @@
-# Healthcare system status
+---
+layout: page
+page-type: map-description
 
-![](../../.gitbook/assets/health_healthcare_system_status.jpg)
+title: Healthcare system status
 
+map-group: clusters
+map-category: health
+map-theme: health-systems
+map-name: healthcare-system-status
+
+folder-name: 02-clusters\health\health-systems
+filename: healthcare-system-status
+
+image: health-healthcare-system-status.jpg
+image-folder: clusters\health
+image-caption: 
+
+previous-map: 
+next-map: 
+---
 Once an understanding of the health system / facilities are mapped if there has been any impact on the functioning of the facilities this needs to be visualised. There are specific categories that functioning can be divided into:
 
 * Functioning

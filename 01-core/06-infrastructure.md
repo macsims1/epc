@@ -1,13 +1,21 @@
 ---
 layout: page
-title: Infrastructure
 page-type: map-description
+
+title: Infrastructure
+
 map-group: core
+map-category: infrastructure
+map-theme: critical
+map-name: infrastructure
+
+folder-name: 01-core
+filename: 06-infrastructure
+
 image: core-infrastructure-schools.jpg
 image-folder: core
 image-caption: 
-folder-name: 01-core
-filename: 06-infrastructure
+
 previous-map: 05-affected-population
 next-map: 07-humanitarian-infrastructure
 ---

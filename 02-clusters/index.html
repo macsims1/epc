@@ -8,23 +8,175 @@ next-section: /hazards/
 ---
 
 		
-<div class="container">
+ <!-- Page Content -->
+ <div class="container">
+	<div class="row">
+	  <!-- Camp coordination and camp management -->
+	  <div class="col-sm-6">
+		<div class="card border-0 shadow">
+		  <a href="{{site.baseurl}}/02-clusters/01-camp-coordination-and-camp-management/" class="stretched-link">
+		  <img src="{{site.baseurl}}\images\clusters\cluster-camp-coordination.jpg" class="card-img-top" alt="...">
+		  <div class="card-body text-center">
+			<h4 class="card-title mb-0">Camp coordination and camp management</h4>
+			<div class="card-text text-black-50">        
+			</a>
+			</div>
+		  </div>
+		</div>
+	  </div>
+  
+	  <!-- Education -->
+	  <div class="col-sm-6">
+		  <div class="card border-0 shadow">
+			<a href="{{site.baseurl}}/02-clusters/02-education/" class="stretched-link">
+			<img src="{{site.baseurl}}\images\clusters\cluster-education.jpg" class="card-img-top" alt="...">
+			<div class="card-body text-center">
+			  <h4 class="card-title mb-0">Education</h4>
+			  <div class="card-text text-black-50">        
+			  </a>
+			  </div>
+			</div>
+		  </div>
+		</div>
+		<!--/card-->
+	</div>
+	<!-- /.row -->
+  
+  </div>
+  <!-- /.container -->
+  
+  <!-- Page Content -->
+  <div class="container">
+	  <div class="row">
+		<!-- Emergency shelter -->
+		<div class="col-sm-6">
+		  <div class="card border-0 shadow">
+			<a href="{{site.baseurl}}/02-clusters/emergency-shelter/" class="stretched-link">
+			<img src="{{site.baseurl}}\images\clusters\cluster-shelter.jpg" class="card-img-top" alt="...">
+			<div class="card-body text-center">
+			  <h4 class="card-title mb-0">Emergency shelter</h4>
+			  <div class="card-text text-black-50">        
+			  </a>
+			  </div>
+			</div>
+		  </div>
+		</div>
+		<!-- Emergency telecommunications and communicating with disaster affected communities -->
+		<div class="col-sm-6">
+			<div class="card border-0 shadow">
+			  <a href="{{site.baseurl}}/02-clusters/04-emergency-telecommunications-and-communicating-with-disaster-affected-communities/" class="stretched-link">
+			  <img src="{{site.baseurl}}\images\clusters\cluster-emergency-telecommunications-gsm.jpg" class="card-img-top" alt="...">
+			  <div class="card-body text-center">
+				<h4 class="card-title mb-0">Emergency telecommunications and communicating with disaster affected communities</h4>
+				<div class="card-text text-black-50">        
+				</a>
+				</div>
+			  </div>
+			</div>
+		  </div>
+  
+		  <!--/card-->
+	  </div>
+	  <!-- /.row -->
+	
+	</div>
+	<!-- /.container -->
+  
+  <!-- Page Content -->
+  <div class="container">
+	  <div class="row">
+		<!-- Food security and nutrition -->
+		<div class="col-sm-6">
+		  <div class="card border-0 shadow">
+			<a href="{{site.baseurl}}/02-clusters/05-food-security-and-nutrition" class="stretched-link">
+			<img src="{{site.baseurl}}\images\clusters\cluster-food-security.jpg" class="card-img-top" alt="...">
+			<div class="card-body text-center">
+			  <h4 class="card-title mb-0">Food security and nutrition</h4>
+			  <div class="card-text text-black-50">        
+			  </a>
+			  </div>
+			</div>
+		  </div>
+		</div>
+		<!-- Health -->
+	  <div class="col-sm">
+			<div class="card border-0 shadow">
+			  <a href="{{site.baseurl}}\02-clusters/health/index" class="stretched-link">
+			  <img src="{{site.baseurl}}\images\clusters\cluster-health-lassa.jpg" class="card-img-top" alt="...">
+			  <div class="card-body text-center">
+				<h4 class="card-title mb-0">Health</h4>
+				<div class="card-text text-black-50">        
+				</a>
+				</div>
+			  </div>
+			</div>
+		  </div>
+  
+		  <!--/card-->
+	  </div>
+	  <!-- /.row -->
+	
+	</div>
+	<!-- /.container -->   
+
+	<!-- Page Content -->
+	<div class="container">
 		<div class="row">
-				{% for maps in site.pages %}
-				{% if maps.map-group =="clusters" and maps.page-type =="map-description" %}
-<div class="col-md-4">
-<div class="card border-0 shadow">
-	<a href="{{site.baseurl}}\{{maps.folder-name}}\{{maps.filename}}" class="stretched-link">
-		<img src="{{site.baseurl}}/images/clusters/{{maps.image}}" class="card-img-top" alt="...">
-			<div class="card-body-topic text-center">
-			<strong class="card-title mb-0">{{maps.title}}</strong>
-	</a>
-</div>	
-</div>
-</div>
-
-{% endif %}		
-
-{% endfor %}
-</div>
-</div>
+		  <!-- Logistics -->
+		  <div class="col-sm-6">
+			<div class="card border-0 shadow">
+			  <a href="{{site.baseurl}}/02-clusters/07-logistics/" class="stretched-link">
+			  <img src="{{site.baseurl}}\images\clusters\cluster-logistics-assessement-of-logistics-capacity.jpg" class="card-img-top" alt="...">
+			  <div class="card-body text-center">
+				<h4 class="card-title mb-0">Logistics</h4>
+				<div class="card-text text-black-50">        
+				</a>
+				</div>
+			  </div>
+			</div>
+		  </div>
+	  
+		  <!-- Protection and security -->
+		  <div class="col-sm-6">
+			  <div class="card border-0 shadow">
+				<a href="{{site.baseurl}}/02-clusters/08-protection-and-security" class="stretched-link">
+				<img src="{{site.baseurl}}\images\clusters\cluster-protection-incident-hotspots.jpg" class="card-img-top" alt="...">
+				<div class="card-body text-center">
+				  <h4 class="card-title mb-0">Protection and security</h4>
+				  <div class="card-text text-black-50">        
+				  </a>
+				  </div>
+				</div>
+			  </div>
+			</div>
+			<!--/card-->
+		</div>
+		<!-- /.row -->
+	  
+	  </div>
+	  <!-- /.container -->
+	  
+	  <!-- Page Content -->
+ <div class="container">
+	<div class="row">
+	  <!-- Water, sanitation and hygiene -->
+	  <div class="col-sm-6">
+		<div class="card border-0 shadow">
+		  <a href="{{site.baseurl}}/02-clusters/09-water-sanitation-and-hygiene/" class="stretched-link">
+		  <img src="{{site.baseurl}}\images\clusters\cluster-wash.jpg" class="card-img-top" alt="...">
+		  <div class="card-body text-center">
+			<h4 class="card-title mb-0">Water, sanitation and hygiene</h4>
+			<div class="card-text text-black-50">        
+			</a>
+			</div>
+		  </div>
+		</div>
+	  </div>
+  
+	  
+		<!--/card-->
+	</div>
+	<!-- /.row -->
+  
+  </div>
+  <!-- /.container -->

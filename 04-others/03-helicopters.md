@@ -1,17 +1,24 @@
 ---
 layout: page
-title: Helicopters
 page-type: map-description
+
+title: Helicopters
+
 map-group: others
+map-category: transport
+map-theme: 
+map-name: other-who-what-where-cash-transfer
+
+folder-name: 04-others
+filename: 03-helicopters
+
 image: other-helicopters-nepal2.jpg
 image-folder: others
 image-caption: 
-folder-name: 04-others
-filename: 03-helicopters
+
 previous-map: 02-environmental-assessment
 next-map: 04-languages
 ---
-
 Helicopters can be a key asset during an emergency response, be it to distribute aid to the right place, to move affected people, or to move responders from location to location. They may also be used to conduct aerial assessments where ground-based access can be difficult. Helicopters will also often be used for rescues.
 
 ## Strategic or operational?

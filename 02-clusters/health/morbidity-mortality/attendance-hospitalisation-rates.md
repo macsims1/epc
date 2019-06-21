@@ -1,13 +1,21 @@
 ---
 layout: page
-title: Attendance / hospitalisation rates
 page-type: map-description
-map-group: health
+
+title: Attendance / hospitalisation rates
+
+map-group: clusters
+map-category: health
+map-theme: morbidity-mortality
+map-name: attendance-hospitalisation-rates
+
+folder-name: 02-clusters\health\morbidity-mortality
+filename: attendance-hospitalisation-rates
+
 image: 
-image-folder: 02-clusters/health
+image-folder: clusters\health
 image-caption: 
-folder-name: 02-clusters
-filename: 02-education
+
 previous-map: 
 next-map: 
 ---

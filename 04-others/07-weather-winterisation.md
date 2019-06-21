@@ -1,17 +1,24 @@
 ---
 layout: chapter-end
-title: Weather - winterisation
 page-type: map-description
+
+title: Weather - winterisation
+
 map-group: others
+map-category: weather
+map-theme: wintertisation
+map-name: weather-overview
+
+folder-name: 04-others
+filename: 07-weather-winterisation
+
 image: other-winterisation-maximum.jpg
 image-folder: others
 image-caption: 
-folder-name: 04-others
-filename: 07-weather-winterisation
+
 previous-map: 06-weather-overview
 next-map: 
 ---
-
 Maps to assist in the planning for humanitarian responses that are expected to continue into the winter season. They help responders to plan for humanitarian responses under cold weather conditions, by identifying communities facilitate timely response to earthquake disasters, focusing on anticipated hazards and impacts of this type of event. Maps may be produced to coordinate urban search and rescue, to visualise access to affected areas, to analyse patterns of structural damage and assessed needs, and to plan a humanitarian response across multiple sectors.
 
 ## Strategic or operational?

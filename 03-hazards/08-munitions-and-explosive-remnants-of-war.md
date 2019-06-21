@@ -1,17 +1,24 @@
 ---
 layout: page
-title: Munitions and explosive remnants of war
 page-type: map-description
+
+title: Munitions and explosive remnants of war
+
 map-group: hazards
+map-category: munitions
+map-theme: 
+map-name: munitions-and-explosive-remnants-of-war
+
+folder-name: 03-hazards
+filename: 08-munitions-and-explosive-remnants-of-war
+
 image: hazard-munitions-distribution-and-concentrations.jpg
 image-folder: hazards
 image-caption: 
-folder-name: 03-hazards
-filename: 08-munitions-and-explosive-remnants-of-war
+
 previous-map: 07-landslides
 next-map: 09-tsunami
 ---
-
 Maps produced to support clearance or other risk mitigation from unexploded ordnance or other explosive remnants of war. This may be due to generalised contamination of an area post-conflict or as a result of a specific explosive accident or deliberate act.
 
 ## Strategic or operational?

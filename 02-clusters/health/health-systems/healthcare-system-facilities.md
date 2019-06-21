@@ -1,7 +1,24 @@
-# Healthcare system / facilities
+---
+layout: page
+page-type: map-description
 
-![](../../.gitbook/assets/health_healthcare_system_facilities.jpg)
+title: Healthcare system / facilities
 
+map-group: clusters
+map-category: health
+map-theme: health-systems
+map-name: healthcare-system-facilities
+
+folder-name: 02-clusters\health\health-systems
+filename: healthcare-system-facilities
+
+image: health-healthcare-system-facilities.jpg
+image-folder: clusters\health
+image-caption: 
+
+previous-map: 
+next-map: 
+---
 Healthcare system and facility maps show the geographical location of health facilities including:
 
 * Primary care: primary care practices, pharmacies

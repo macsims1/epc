@@ -1,17 +1,24 @@
 ---
 layout: page
-title: Tsunami
 page-type: map-description
+
+title: Tsunami
+
 map-group: hazards
+map-category: munitions
+map-theme: 
+map-name: munitions-and-explosive-remnants-of-war
+
+folder-name: 03-hazards
+filename: 09-tsunami
+
 image: hazard-tsunami.jpg
 image-folder: hazards
 image-caption: 
-folder-name: 03-hazards
-filename: 09-tsunami
+
 previous-map: 08-munitions-and-explosive-remnants-of-war
 next-map: 10-volcanos
 ---
-
 Maps produced during a humanitarian response to destructive tsunami, usually arising from offshore earthquakes. This section describes mapping the specific impacts of the tsunami, rather than the trigger earthquake, which may itself have direct effects on land.
 
 ## Strategic or operational?

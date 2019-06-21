@@ -1,17 +1,24 @@
 ---
 layout: page
-title: Cyclones and storms
 page-type: map-description
+
+title: Cyclones and storms
+
 map-group: hazards
+map-category: cyclones-and-storms
+map-theme: 
+map-name: cyclones-and-storms
+
+folder-name: 03-hazards
+filename: 03-cyclones-and-storms
+
 image: hazard-cyclones-storm-path.jpg
 image-folder: hazards
 image-caption: 
-folder-name: 03-hazards
-filename: 03-cyclones-and-storms
+
 previous-map: 02-biological-epidemics
 next-map: 04-earthquakes-search-and-rescue
 ---
-
 Maps produced during a humanitarian response to storm events – typically tropical storms – focusing on the hazards and impacts that typically characterise such emergencies.
 
 ## Strategic or operational?

@@ -1,17 +1,24 @@
 ---
 layout: page
-title: Reference - transport
 page-type: map-description
+
+title: Reference - transport
+
 map-group: core
-image: core-reference-map-transport.jpg
-image-folder: core
-image-caption: 
+map-category: reference
+map-theme: transport
+map-name: reference-transport
+
 folder-name: 01-core
 filename: reference-transport
+
+image: core-reference-map-transport.jpg
+image-folder: core
+image-caption:  
+
 previous-map: 02-reference-topography-and-physical-geography
 next-map: 04-baseline-population
 ---
-
 
 Key to understanding the movement of both people and aid, transport maps are vital for responders in logistical roles. Knowing the location of airports and seaports is important as these will often act as distribution hubs, as well as receiving and storing aid. Roads will often be damaged during a disaster, so knowing what the conditions are like, combined with understanding the road network, helps to identify the accessibility of a settlement or location. Transport maps can help to understand disease transmission and/ or the movement of people.
 

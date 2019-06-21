@@ -1,5 +1,24 @@
-# Healthcare workforce / training
+---
+layout: page
+page-type: map-description
 
+title: Healthcare workforce / training
+
+map-group: clusters
+map-category: health
+map-theme: health-systems
+map-name: healthcare-workforce-training
+
+folder-name: 02-clusters\health\health-systems
+filename: healthcare-workforce-training
+
+image: 
+image-folder: clusters\health
+image-caption: 
+
+previous-map: 
+next-map: 
+---
 Workforce mapping can be used to visualise the distribution of healthcare workforce including doctors, nurses, surgeons, health care assistants and operational managers. Level of training can also be visualised such as training in infection control.
 
 ## Strategic or operational? 

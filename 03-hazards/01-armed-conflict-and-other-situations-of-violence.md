@@ -1,13 +1,21 @@
 ---
 layout: chapter-start
-title: Armed conflict and other situations of violence
 page-type: map-description
+
+title: Armed conflict and other situations of violence
+
 map-group: hazards
+map-category: armed-conflict-and-other-situations-of-violence
+map-theme: 
+map-name: armed-conflict-and-other-situations-of-violence
+
+folder-name: 03-hazards
+filename: 01-armed-conflict-and-other-situations-of-violence
+
 image: hazard-complex-syria.jpg
 image-folder: hazards
 image-caption: 
-folder-name: 03-hazards
-filename: 01-armed-conflict-and-other-situations-of-violence
+
 previous-map: /02-clusters
 next-map: 02-biological-epidemics
 ---
