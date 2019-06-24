@@ -2,7 +2,7 @@
 layout: chapter-end
 page-type: map-description
 
-title: Standardised Health Sitreps
+title: Standardised health sitreps
 
 map-group: clusters
 map-category: health

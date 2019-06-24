@@ -2,7 +2,7 @@
 layout: chapter-start
 page-type: map-description
 
-title: EMT Type and location
+title: EMT type and location
 
 map-group: clusters
 map-category: health

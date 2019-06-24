@@ -38,22 +38,105 @@ next-section: /
 <p>Across all health related responses to aid good decision making it is essential to track health over time, for example in epidemics this will help understand the progression of the incident i.e. are cases increasing or decreasing.</p>
 
 
-<div class="row">
-	{% for maps in site.pages %}
-	{% if maps.map-theme =="health-systems" and maps.page-type =="map-description" %}
-	<div class="col-md-4">
+<!-- Page Content -->
+<div class="container">
+	<div class="row">
+	  <!-- Care of the dead -->
+	  <div class="col-sm-6">
 		<div class="card border-0 shadow">
-		<a href="{{site.baseurl}}\{{maps.folder-name}}\{{maps.filename}}" class="stretched-link">
-			<img src="{{site.baseurl}}/images/clusters/health/{{maps.image}}" class="card-img-top" alt="...">
-				<div class="card-body-topic text-center">
-				<strong class="card-title mb-0">{{maps.title}}</strong>
+		  <a href="{{site.baseurl}}/02-clusters/health/clusters-emergency-medical-teams/emt-type-and-location" class="stretched-link">
+		  <img src="{{site.baseurl}}/images\clusters\health/health-care-of-the-dead.jpg" class="card-img-top" alt="...">
+		  <div class="card-body text-center">
+			<h4 class="card-title mb-0">Care of the dead</h4>
+			<div class="card-text text-black-50">        
+			</a>
+			</div>
+		  </div>
+		</div>
+	  </div>
+  
+	  <!-- Healthcare system capacity -->
+	  <div class="col-sm-6">
+		  <div class="card border-0 shadow">
+			<a href="{{site.baseurl}}/02-clusters/health/clusters-emergency-medical-teams/standardised-health-sitreps" class="stretched-link">
+			<img src="{{site.baseurl}}/images\clusters\health/health-healthcare-system-capacity.jpg" class="card-img-top" alt="...">
+			<div class="card-body text-center">
+			  <h4 class="card-title mb-0">Healthcare system capacity</h4>
+			  <div class="card-text text-black-50">        
+			  </a>
+			  </div>
+			</div>
+		  </div>
+		</div>
+		<!--/card-->
+	</div>
+	<!-- /.row -->
+
+	<div class="row">
+		<!-- Healthcare system / facilities-->
+		<div class="col-sm-6">
+		  <div class="card border-0 shadow">
+			<a href="{{site.baseurl}}/02-clusters/health/clusters-emergency-medical-teams/emt-type-and-location" class="stretched-link">
+			<img src="{{site.baseurl}}/images\clusters\health/health-healthcare-system-facilities.jpg" class="card-img-top" alt="...">
+			<div class="card-body text-center">
+			  <h4 class="card-title mb-0">Healthcare system / facilities</h4>
+			  <div class="card-text text-black-50">        
+			  </a>
+			  </div>
+			</div>
+		  </div>
+		</div>
+	
+		<!-- Healthcare system status -->
+		<div class="col-sm-6">
+			<div class="card border-0 shadow">
+			  <a href="{{site.baseurl}}/02-clusters/health/clusters-emergency-medical-teams/standardised-health-sitreps" class="stretched-link">
+			  <img src="{{site.baseurl}}/images\clusters\health/health-healthcare-system-status.jpg"" class="card-img-top" alt="...">
+			  <div class="card-body text-center">
+				<h4 class="card-title mb-0">Healthcare system statusy</h4>
+				<div class="card-text text-black-50">        
+				</a>
+				</div>
+			  </div>
+			</div>
+		  </div>
+		  <!--/card-->
+	  </div>
+	  <!-- /.row -->
+
+	  <div class="row">
+<!-- Healthcare workforce / training -->
+<div class="col-sm-6">
+	<div class="card border-0 shadow">
+	  <a href="{{site.baseurl}}/02-clusters/health/clusters-emergency-medical-teams/standardised-health-sitreps" class="stretched-link">
+	  <img src="{{site.baseurl}}/images/other-images/missing-map.jpg" class="card-img-top" alt="...">
+	  <div class="card-body text-center">
+		<h4 class="card-title mb-0">Healthcare workforce / training</h4>
+		<div class="card-text text-black-50">        
 		</a>
-		</div>	
 		</div>
-		</div>
-		
-		{% endif %}		
-		
-		{% endfor %}
-		</div>
-		</div>
+	  </div>
+	</div>
+  </div>
+  <!--/card-->
+	
+		<!-- Quarantine restrictions -->
+		<div class="col-sm-6">
+			<div class="card border-0 shadow">
+			  <a href="{{site.baseurl}}/02-clusters/health/clusters-emergency-medical-teams/standardised-health-sitreps" class="stretched-link">
+			  <img src="{{site.baseurl}}/images/other-images/missing-map.jpg" class="card-img-top" alt="...">
+			  <div class="card-body text-center">
+				<h4 class="card-title mb-0">Quarantine restrictions</h4>
+				<div class="card-text text-black-50">        
+				</a>
+				</div>
+			  </div>
+			</div>
+		  </div>
+		  <!--/card-->
+	  </div>
+	  <!-- /.row -->
+  
+  </div>
+  <!-- /.container -->
+</div>

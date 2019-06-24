@@ -29,7 +29,7 @@ next-section: /
 
 <div class="row">
 		{% for maps in site.pages %}
-		{% if maps.map-theme =="health-systems" and maps.page-type =="map-description" %}
+		{% if maps.map-theme =="health-systems" and maps.page-type =="map-description" and maps.image !="missing-map" %}
 <div class="col-md-4">
 <div class="card border-0 shadow">
 <a href="{{site.baseurl}}\{{maps.folder-name}}\{{maps.filename}}" class="stretched-link">
@@ -40,6 +40,7 @@ next-section: /
 </div>	
 </div>
 </div>
+
 
 {% endif %}		
 

@@ -9,7 +9,7 @@ map-category: health
 map-theme: clusters-emergency-medical-teams
 map-name: 
 
-folder-name: 02-clusters\health\health-systems
+folder-name: 02-clusters\health\clusters-emergency-medical-teams
 filename: index
 
 image: health-emt-type-and-location.jpg
@@ -25,24 +25,40 @@ next-section: /
 
 <p> These teams can be national and / or international but are guided by the common principle of self-sufficiency and the with the aim to strengthen the existing capacity of the health system in country.</p>
 
+<!-- Page Content -->
 <div class="container">
-
 	<div class="row">
-			{% for maps in site.pages %}
-			{% if maps.map-theme =="clusters-emergency-medical-teams" and maps.page-type =="map-description" %}
-<div class="col-md-4">
-<div class="card border-0 shadow">
-<a href="{{site.baseurl}}\{{maps.folder-name}}\{{maps.filename}}" class="stretched-link">
-	<img src="{{site.baseurl}}/images/clusters/health/{{maps.image}}" class="card-img-top" alt="...">
-		<div class="card-body-topic text-center">
-		<strong class="card-title mb-0">{{maps.title}}</strong>
-</a>
-</div>	
-</div>
-</div>
-
-{% endif %}		
-
-{% endfor %}
-</div>
+	  <!-- EMT Type and location -->
+	  <div class="col-sm-6">
+		<div class="card border-0 shadow">
+		  <a href="{{site.baseurl}}/02-clusters/health/clusters-emergency-medical-teams/emt-type-and-location" class="stretched-link">
+		  <img src="{{site.baseurl}}/images\clusters\health/health-emt-type-and-location.jpg" class="card-img-top" alt="...">
+		  <div class="card-body text-center">
+			<h4 class="card-title mb-0">EMT type and location</h4>
+			<div class="card-text text-black-50">        
+			</a>
+			</div>
+		  </div>
+		</div>
+	  </div>
+  
+	  <!-- Standardised health sitreps -->
+	  <div class="col-sm-6">
+		  <div class="card border-0 shadow">
+			<a href="{{site.baseurl}}/02-clusters/health/clusters-emergency-medical-teams/standardised-health-sitreps" class="stretched-link">
+			<img src="{{site.baseurl}}/images/other-images/missing-map.jpg" class="card-img-top" alt="...">
+			<div class="card-body text-center">
+			  <h4 class="card-title mb-0">Standardised health sitreps</h4>
+			  <div class="card-text text-black-50">        
+			  </a>
+			  </div>
+			</div>
+		  </div>
+		</div>
+		<!--/card-->
+	</div>
+	<!-- /.row -->
+  
+  </div>
+  <!-- /.container -->
 </div>

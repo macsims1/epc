@@ -12,7 +12,7 @@ map-name: quarantine-restrictions
 folder-name: 02-clusters\health\health-systems
 filename: quarantine-restrictions
 
-image: 
+image: missing-map
 image-folder: clusters\health
 image-caption: 
 

@@ -12,7 +12,7 @@ map-name: healthcare-workforce-training
 folder-name: 02-clusters\health\health-systems
 filename: healthcare-workforce-training
 
-image: 
+image: missing-map
 image-folder: clusters\health
 image-caption: 
 
